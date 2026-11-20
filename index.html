@@ -33,7 +33,17 @@ function cmpByAttack(a, b) {
     return cmpByDevIndex(a, b);
 }
 
-function setOptions() {
+function changeRadix() {
+    if ($("#radix_dec").prop("checked")) {
+        $(".show_dec").show();
+        $(".show_hex").hide();
+    } else {
+        $(".show_dec").hide();
+        $(".show_hex").show();
+    }
+}
+
+function changeView() {
     $(".data_row").detach();
     if ($("#view_by_device").prop("checked")) {
         monsters.sort(cmpByDevIndex);
@@ -49,6 +59,14 @@ function setOptions() {
         }
         prevMonster = monster;
     });
+    changeRadix();
+}
+
+function makeByteCell(n) {
+    return $("<td>").addClass("number").append(
+        $("<span>").addClass("show_hex").text(hexByte(n)).addClass("hex"),
+        $("<span>").addClass("show_dec").text(n),
+    );
 }
 
 function makeAttack(TR, attackType, attackId, isFocus) {
@@ -64,13 +82,13 @@ function makeAttack(TR, attackType, attackId, isFocus) {
                 $("<img>").addClass("attack_sprite").prop("src", "color/" + filename),
                 $("<img>").addClass("attack_sprite").prop("src", "bw/" + filename),
             ),
-            $("<td>").text(props.hex),
-            $("<td>").text(props.dec),
-            $("<td>").text(props.dmc_hex),
-            $("<td>").text(props.dmc_dec),
+            makeByteCell(props.dmc_dec),
+            makeByteCell(props.dec).prepend(
+                $("<span>").text(attackType + " "),
+            ),
         );
     } else {
-        TR.append($("<td>").text("N/A").prop("colspan", 5));
+        TR.append($("<td>").text("N/A").prop("colspan", 3));
     }
     return props;
 }
@@ -84,8 +102,7 @@ function makeRowResult(rowData, focusIsMain) {
     result.TR = $("<tr>").addClass("data_row");
     result.TR.append(
         $("<td>").text(rowData.Device),
-        $("<td>").text(rowData.AttackType),
-        $("<td>").text(rowData.Index),
+        makeByteCell(rowData.Index),
         $("<td>").text(rowData.Name),
     );
     result.MainProps = makeAttack(result.TR, rowData.AttackType, rowData.Main, focusIsMain);
@@ -111,19 +128,28 @@ $(document).ready(function() {
                     monsters.push(makeRowResult(row, false));
                 }
             });
-            setOptions();
+            changeView();
         });
     });
 });
 </script>
 
 <style>
-table, th, td {
-    border: 1px solid #888;
+table {
     border-collapse: collapse;
-    padding: 0px;
+}
+th, td {
+    border: 1px solid #888;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
+.number {
+    font-family: monospace;
+    text-align: right;
+}
 </style>
 </head>
 <body>
@@ -155,32 +181,32 @@ table, th, td {
 <h2>Attack Sprite Table</h2>
 
 <div>
-View:<br>
-  <input type="radio" onchange="setOptions()" name="view" id="view_by_device" checked="checked"><label>By device and index</label><br>
-  <input type="radio" onchange="setOptions()" name="view" id="view_by_name"><label>By name</label><br>
-  <input type="radio" onchange="setOptions()" name="view" id="view_by_attack"><label>By attack</label><br>
+  Numbers:<br>
+  <input type="radio" onchange="changeRadix()" name="radix" id="radix_dec" checked="checked"><label>Decimal</label><br>
+  <input type="radio" onchange="changeRadix()" name="radix" id="radix_hex"><label>Hexadecimal</label><br>
+</div>
+<div>
+  View:<br>
+  <input type="radio" onchange="changeView()" name="view" id="view_by_device" checked="checked"><label>By device and index</label><br>
+  <input type="radio" onchange="changeView()" name="view" id="view_by_name"><label>By name</label><br>
+  <input type="radio" onchange="changeView()" name="view" id="view_by_attack"><label>By attack</label><br>
 </div>
 
 <table id="attack_table">
 <tr class="header_row">
   <th rowspan=2>Device</th>
-  <th rowspan=2>Attack Type</th>
   <th rowspan=2>Index</th>
   <th rowspan=2>Name</th>
-  <th colspan=5>Main/Strong Attack</th>
-  <th colspan=5>Alt/Weak Attack</th>
+  <th colspan=3>Main/Strong Attack</th>
+  <th colspan=3>Alt/Weak Attack</th>
 </tr>
 <tr class="header_row">
   <th>Sprite</th>
-  <th>Hex</th>
-  <th>Dec</th>
-  <th>DMC Hex</th>
-  <th>DMC Dec</th>
+  <th>DMC=</th>
+  <th>Native</th>
   <th>Sprite</th>
-  <th>Hex</th>
-  <th>Dec</th>
-  <th>DMC Hex</th>
-  <th>DMC Dec</th>
+  <th>DMC=</th>
+  <th>Native</th>
 </tr>
 </table>
 
