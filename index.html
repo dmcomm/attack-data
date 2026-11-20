@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Attack Sprites</title>
+<script src="https://code.jquery.com/jquery-4.1.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+var attack_map = {"PenOG": {}, "PenX": {}, "DM20": {}, "DMX": {}};
+var monsters = [];
+
+function hexByte(n) {
+    return "0x" + n.toString(16).padStart(2, "0").toUpperCase();
+}
+
+function cmpByDevIndex(a, b) {
+    if (a.Device < b.Device) return -1;
+    if (a.Device > b.Device) return 1;
+    if (a.Index < b.Index) return -1;
+    if (a.Index > b.Index) return 1;
+    return 0;
+}
+
+function cmpByName(a, b) {
+    if (a.Name < b.Name) return -1;
+    if (a.Name > b.Name) return 1;
+    return cmpByDevIndex(a, b);
+}
+
+function cmpByAttack(a, b) {
+    if (a.FocusAttack < b.FocusAttack) return -1;
+    if (a.FocusAttack > b.FocusAttack) return 1;
+    return cmpByDevIndex(a, b);
+}
+
+function setOptions() {
+    $(".data_row").detach();
+    if ($("#view_by_device").prop("checked")) {
+        monsters.sort(cmpByDevIndex);
+    } else if ($("#view_by_name").prop("checked")) {
+        monsters.sort(cmpByName);
+    } else {
+        monsters.sort(cmpByAttack);
+    }
+    let prevMonster = {"Device": "", "Index": ""};
+    monsters.forEach(function(monster, index, array) {
+        if (monster.Device !== prevMonster.Device || monster.Index !== prevMonster.Index) {
+            $("#attack_table").append(monster.TR);
+        }
+        prevMonster = monster;
+    });
+}
+
+function makeAttack(TR, attackType, attackId, isFocus) {
+    let props = {"dmc_dec": null};
+    if (typeof(attackId) === "number") {
+        props.dec = attackId;
+        props.hex = hexByte(props.dec);
+        props.dmc_dec = attackType === "DMC" ? attackId : attack_map[attackType][props.dec];
+        props.dmc_hex = hexByte(props.dmc_dec);
+        let filename = props.dmc_dec.toString().padStart(3, "0") + ".png";
+        TR.append(
+            $("<td>").append(
+                $("<img>").addClass("attack_sprite").prop("src", "color/" + filename),
+                $("<img>").addClass("attack_sprite").prop("src", "bw/" + filename),
+            ),
+            $("<td>").text(props.hex),
+            $("<td>").text(props.dec),
+            $("<td>").text(props.dmc_hex),
+            $("<td>").text(props.dmc_dec),
+        );
+    } else {
+        TR.append($("<td>").text("N/A").prop("colspan", 5));
+    }
+    return props;
+}
+
+function makeRowResult(rowData, focusIsMain) {
+    let result = {};
+    result.Device = rowData.Device;
+    result.Index = rowData.Index;
+    result.Name = rowData.Name;
+    result.FocusIsMain = focusIsMain;
+    result.TR = $("<tr>").addClass("data_row");
+    result.TR.append(
+        $("<td>").text(rowData.Device),
+        $("<td>").text(rowData.AttackType),
+        $("<td>").text(rowData.Index),
+        $("<td>").text(rowData.Name),
+    );
+    result.MainProps = makeAttack(result.TR, rowData.AttackType, rowData.Main, focusIsMain);
+    result.AltProps  = makeAttack(result.TR, rowData.AttackType, rowData.Alt, !focusIsMain);
+    let focusProps = focusIsMain ? result.MainProps : result.AltProps;
+    result.FocusAttack = focusProps.dmc_dec;
+    return result;
+}
+
+$(document).ready(function() {
+    d3.tsv("attack_mapping.tsv", d3.autoType).then((attack_mapping) => {
+        attack_mapping.forEach(function(row, index, array) {
+            for (let device in attack_map) {
+                if (typeof(row[device]) === "number") {
+                    attack_map[device][row[device]] = row["DMC"];
+                }
+            }
+        });
+        d3.tsv("monster_data.tsv", d3.autoType).then((monster_data) => {
+            monster_data.forEach(function(row, index, array) {
+                monsters.push(makeRowResult(row, true));
+                if (typeof(row.Alt) === "number" && row.Alt !== row.Main) {
+                    monsters.push(makeRowResult(row, false));
+                }
+            });
+            setOptions();
+        });
+    });
+});
+</script>
+
+<style>
+table, th, td {
+    border: 1px solid #888;
+    border-collapse: collapse;
+    padding: 0px;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Attack Sprites</h1>
+
+<h2>Notes</h2>
+
+<ul>
+  <li>DM20, Pen20, DMX and PenZ have a Strong and Weak attack.</li>
+  <li>DMC supports an Alt attack but there is no difference in power.</li>
+  <li>Pen20 and DMC attack IDs are the same for 0-116.</li>
+  <li>Attack 117 only exists on Pen20 and is unused; it was assigned a DMC number here for convenience.</li>
+  <li>Attack 118 only exists on DMX and was assigned a Pen20/DMC number here for convenience.</li>
+</ul>
+
+<h2>Credits</h2>
+
+<ul>
+  <li>BladeSabre - made this page, organized all the data, all DM20 data.</li>
+  <li>Fëanen - compiled the monochrome sprites and the mapping between different device types, and answered many questions.</li>
+  <li>cyanic - all color device data.</li>
+  <li>joushiikuta - all Pen20 data.</li>
+  <li>n36hoko, Fate, Azure, Eric - misc data.</li>
+  <li>Many others contributed a small number of entries.</li>
+  <li>Sprites copyright Bandai 1997-2023; this page is for information only.</li>
+</ul>
+
+<h2>Attack Sprite Table</h2>
+
+<div>
+View:<br>
+  <input type="radio" onchange="setOptions()" name="view" id="view_by_device" checked="checked"><label>By device and index</label><br>
+  <input type="radio" onchange="setOptions()" name="view" id="view_by_name"><label>By name</label><br>
+  <input type="radio" onchange="setOptions()" name="view" id="view_by_attack"><label>By attack</label><br>
+</div>
+
+<table id="attack_table">
+<tr class="header_row">
+  <th rowspan=2>Device</th>
+  <th rowspan=2>Attack Type</th>
+  <th rowspan=2>Index</th>
+  <th rowspan=2>Name</th>
+  <th colspan=5>Main/Strong Attack</th>
+  <th colspan=5>Alt/Weak Attack</th>
+</tr>
+<tr class="header_row">
+  <th>Sprite</th>
+  <th>Hex</th>
+  <th>Dec</th>
+  <th>DMC Hex</th>
+  <th>DMC Dec</th>
+  <th>Sprite</th>
+  <th>Hex</th>
+  <th>Dec</th>
+  <th>DMC Hex</th>
+  <th>DMC Dec</th>
+</tr>
+</table>
+
+</body>
+</html>

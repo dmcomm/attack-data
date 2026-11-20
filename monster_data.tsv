@@ -1,0 +1,1488 @@
+Device	Index	Name	AttackType	Main	Alt	Crit	Note
+DMC v1	0	Botamon	DMC	0	.	.	
+DMC v1	1	Koromon	DMC	0	.	.	
+DMC v1	2	Agumon	DMC	1	.	.	
+DMC v1	3	Betamon	DMC	4	.	.	
+DMC v1	4	Greymon	DMC	3	.	.	
+DMC v1	5	Tyrannomon	DMC	3	.	.	
+DMC v1	6	Devimon	DMC	6	.	.	
+DMC v1	7	Meramon	DMC	6	.	.	
+DMC v1	8	Airdramon	DMC	5	.	.	
+DMC v1	9	Seadramon	DMC	5	.	.	
+DMC v1	10	Numemon	DMC	15	.	.	
+DMC v1	11	Metal Greymon (Virus)	DMC	2	.	.	
+DMC v1	12	Mamemon	DMC	7	.	.	
+DMC v1	13	Monzaemon	DMC	8	.	.	
+DMC v1	14	Blitz Greymon	DMC	48	.	.	
+DMC v1	15	Bancho Mamemon	DMC	40	.	.	
+DMC v1	16	Shin Monzaemon	DMC	8	.	.	
+DMC v1	17	Omegamon Alter-S	DMC	16	.	.	
+DMC v2	0	Punimon	DMC	0	.	.	
+DMC v2	1	Tsunomon	DMC	0	.	.	
+DMC v2	2	Gabumon	DMC	1	.	.	
+DMC v2	3	Elecmon	DMC	4	.	.	
+DMC v2	4	Kabuterimon	DMC	3	.	.	
+DMC v2	5	Garurumon	DMC	3	.	.	
+DMC v2	6	Angemon	DMC	6	.	.	
+DMC v2	7	Yukidarumon	DMC	6	.	.	
+DMC v2	8	Birdramon	DMC	5	.	.	
+DMC v2	9	Whamon (Adult)	DMC	9	5	.	
+DMC v2	10	Veggiemon	DMC	15	.	.	
+DMC v2	11	Skull Greymon	DMC	10	.	.	
+DMC v2	12	Metal Mamemon	DMC	7	.	.	
+DMC v2	13	Vademon	DMC	14	8	.	
+DMC v2	14	Skull Mammon	DMC	11	.	.	
+DMC v2	15	Cres Garurumon	DMC	12	.	.	
+DMC v2	16	Ebemon	DMC	21	.	.	
+DMC v2	17	Omegamon Alter-S	DMC	16	.	.	
+DMC v3	0	Poyomon	DMC	0	.	.	
+DMC v3	1	Tokomon	DMC	0	.	.	
+DMC v3	2	Patamon	DMC	1	.	.	
+DMC v3	3	Kunemon	DMC	4	.	.	
+DMC v3	4	Unimon	DMC	3	.	.	
+DMC v3	5	Centalmon	DMC	3	.	.	
+DMC v3	6	Ogremon	DMC	6	.	.	
+DMC v3	7	Bakemon	DMC	6	.	.	
+DMC v3	8	Shellmon	DMC	5	.	.	
+DMC v3	9	Drimogemon	DMC	5	11	.	
+DMC v3	10	Sukamon	DMC	15	.	.	
+DMC v3	11	Andromon	DMC	2	12	.	
+DMC v3	12	Giromon	DMC	7	.	.	
+DMC v3	13	Etemon	DMC	8	13	.	
+DMC v3	14	Chimairamon	DMC	17	.	.	
+DMC v3	15	Hi Andromon	DMC	30	.	.	
+DMC v3	16	Gokumon	DMC	27	.	.	
+DMC v3	17	Bancho Leomon	DMC	6	.	.	
+DMC v3	18	Chaosmon	DMC	71	105	.	
+DMC v3	19	Millenniumon	DMC	16	.	.	
+DMC v4	0	Yuramon	DMC	0	.	.	
+DMC v4	1	Tanemon	DMC	0	.	.	
+DMC v4	2	Piyomon	DMC	1	.	.	
+DMC v4	3	Palmon	DMC	4	.	.	
+DMC v4	4	Monochromon	DMC	3	.	.	
+DMC v4	5	Cockatrimon	DMC	3	.	.	
+DMC v4	6	Leomon	DMC	6	.	.	
+DMC v4	7	Kuwagamon	DMC	6	.	.	
+DMC v4	8	Coelamon	DMC	5	.	.	
+DMC v4	9	Mojyamon	DMC	5	11	.	
+DMC v4	10	Nanimon	DMC	15	.	.	
+DMC v4	11	Megadramon	DMC	2	12	.	
+DMC v4	12	Piccolomon	DMC	7	.	.	
+DMC v4	13	Digitamamon	DMC	8	13	.	
+DMC v4	14	Darkdramon	DMC	105	.	.	
+DMC v4	15	Bloom Lordmon	DMC	42	.	.	
+DMC v4	16	Gankoomon	DMC	6	.	.	
+DMC v4	17	Chaosdramon (SU)	DMC	30	.	.	
+DMC v4	18	Chaosmon	DMC	71	105	.	
+DMC v5	0	Zurumon	DMC	0	.	.	
+DMC v5	1	Pagumon	DMC	0	.	.	
+DMC v5	2	Gazimon	DMC	1	.	.	
+DMC v5	3	Gizamon	DMC	4	.	.	
+DMC v5	4	Dark Tyrannomon	DMC	3	.	.	
+DMC v5	5	Cyclomon	DMC	3	.	.	
+DMC v5	6	Devidramon	DMC	6	.	.	
+DMC v5	7	Tuskmon	DMC	6	.	.	
+DMC v5	8	Flymon	DMC	5	.	.	
+DMC v5	9	Deltamon	DMC	5	11	.	
+DMC v5	10	Raremon	DMC	15	.	.	
+DMC v5	11	Metal Tyrannomon	DMC	2	12	.	
+DMC v5	12	Nanomon	DMC	7	.	.	
+DMC v5	13	Ex-Tyrannomon	DMC	8	13	.	
+DMC v5	14	Mugendramon	DMC	30	.	.	
+DMC v5	15	Raidenmon	DMC	57	.	.	
+DMC v5	16	Gaioumon	DMC	31	.	.	
+DMC v5	17	Millenniumon	DMC	16	.	.	
+DMC v5	18	Chaosdramon (SU)	DMC	30	.	.	
+DMC XW	0	Chibickmon	DMC	37	.	.	
+DMC XW	1	Pickmon	DMC	37	.	.	
+DMC XW	2	Shoutmon	DMC	16	.	.	
+DMC XW	3	Shoutmon (King)	DMC	16	.	.	
+DMC XW	4	Shoutmon X2	DMC	24	.	.	
+DMC XW	5	Shoutmon X3	DMC	6	.	.	
+DMC XW	6	Shoutmon X3SD	DMC	33	.	.	
+DMC XW	7	Shoutmon X3GM	DMC	104	.	.	
+DMC XW	8	Shoutmon X4	DMC	32	.	.	
+DMC XW	9	Shoutmon X4K	DMC	31	.	.	
+DMC XW	10	Shoutmon X4S	DMC	74	.	.	
+DMC XW	11	Shoutmon X4B	DMC	32	.	.	
+DMC XW	12	Shoutmon X5	DMC	24	.	.	
+DMC XW	13	Shoutmon X5S	DMC	74	.	.	
+DMC XW	14	Shoutmon X5B	DMC	16	.	.	
+DMC XW	15	Omega Shoutmon	DMC	17	.	.	
+DMC XW	16	Shoutmon DX	DMC	34	.	.	
+DMC XW	17	Shoutmon EX6	DMC	30	.	.	
+DMC XW	18	Shoutmon X7	DMC	106	.	.	
+DMC XW	18m	Shoutmon X7: Superior Mode	DMC	31	.	.	
+DMC XW	19	Gaossmon	DMC	54	.	.	
+DMC XW	20	Greymon (XW)	DMC	1	.	.	
+DMC XW	21	Metal Greymon (XW)	DMC	24	.	.	
+DMC XW	22	Decker Greymon	DMC	2	.	.	
+DMC XW	23	Grey Knightsmon	DMC	74	.	.	
+DMC XW	24	Zeke Greymon	DMC	20	.	.	
+DMC XW	25	Gumdramon	DMC	94	.	.	
+DMC XW	26	Arresterdramon	DMC	71	.	.	
+DMC XW	26m	Arresterdramon: Superior Mode	DMC	16	.	.	
+DMC XW	26m	Arresterdramon: Superior Mode (Brave Snatcher)	DMC	53	.	.	
+DMC XW	27	Armamon	DMC	19	.	.	
+DMC XW	27m	Armamon: Burst Mode	DMC	109	.	.	
+DMC XW	28	Ballistamon	DMC	14	.	.	
+DMC XW	29	Starmons	DMC	64	.	.	
+DMC XW	30	Dorulumon	DMC	74	.	.	
+DMC XW	31	King Whamon	DMC	9	.	.	
+DMC XW	32	Pawn Chessmon (White)	DMC	74	.	.	
+DMC XW	33	Knightmon	DMC	31	.	.	
+DMC XW	34	Baalmon	DMC	81	.	.	
+DMC XW	35	Sparrowmon	DMC	21	.	.	
+DMC XW	36	Spadamon	DMC	32	.	.	
+DMC XW	37	Mail Birdramon	DMC	30	.	.	
+DMC XW	38	Deckerdramon	DMC	10	.	.	
+DMC XW	39	Mammon	DMC	98	.	.	
+DMC XW	40	Troopmon	DMC	13	.	.	
+DMC XW	41	Octmon	DMC	18	.	.	
+DMC XW	42	Ebidramon	DMC	69	.	.	
+DMC XW	43	Death Meramon	DMC	78	.	.	
+DMC XW	44	Ice Devimon	DMC	90	.	.	
+DMC XW	45	Daipenmon	DMC	68	.	.	
+DMC XW	46	Ebemon	DMC	14	.	.	
+DMC XW	47	Slash Angemon	DMC	32	.	.	
+DMC XW	48	Lucemon: Falldown Mode	DMC	13	.	.	
+DMC XW	49	Grand Locomon	DMC	101	.	.	
+DMC XW	50	Valvemon	DMC	40	.	.	
+DMC XW	51	Waru Monzaemon	DMC	110	.	.	
+DMC XW	52	Breakdramon	DMC	74	.	.	
+DMC XW	53	Huanglongmon	DMC	22	.	.	
+DMC XW	54	Devimon	DMC	6	.	.	
+DMC XW	55	Lady Devimon	DMC	50	.	.	
+DMC XW	56	Gran Kuwagamon	DMC	26	.	.	
+DMC XW	57	Mummymon	DMC	87	.	.	
+DMC XW	58	Marin Devimon	DMC	72	.	.	
+DMC XW	59	Mermaimon	DMC	102	.	.	
+DMC XW	60	Anubimon	DMC	53	.	.	
+DMC XW	61	Tuwarmon	DMC	12	.	.	
+DMC XW	62	Deadly Axemon	DMC	102	.	.	
+DMC XW	63	Skull Knightmon	DMC	74	.	.	
+DMC XW	64	Venom Vamdemon	DMC	36	.	.	
+DMC XW	65	Belial Vamdemon	DMC	14	.	.	
+DMC XW	66	Mad Leomon	DMC	36	.	.	
+DMC XW	67	Neptunemon	DMC	70	.	.	
+DMC XW	68	Ancient Volcamon	DMC	17	.	.	
+DMC XW	69	Lilithmon	DMC	114	.	.	
+DMC XW	70	Mugendramon	DMC	30	.	.	
+DMC XW	71	Lucemon: Satan Mode	DMC	41	.	.	
+DMC XW	72	Blastmon	DMC	22	.	.	
+DMC XW	73	Tactimon	DMC	12	.	.	
+DMC XW	74	Dorbickmon	DMC	16	.	.	
+DMC XW	75	Neo Vamdemon	DMC	50	.	.	
+DMC XW	76	Zamielmon	DMC	5	.	.	
+DMC XW	77	Splashmon	DMC	66	.	.	
+DMC XW	78	Splashmon Darkness Mode	DMC	47	.	.	
+DMC XW	79	Olegmon	DMC	28	.	.	
+DMC XW	80	Gravimon	DMC	21	.	.	
+DMC XW	81	Apollomon Whispered	DMC	40	.	.	
+DMC XW	82	Dark Knightmon	DMC	74	.	.	
+DMC XW	83	Bagramon	DMC	53	.	.	
+DMC XW	84	Darkness Bagramon	DMC	53	.	.	
+DMC XW	85	Quartzmon	DMC	111	.	.	
+PenC v0 VBu	0	Yukimibotamon	DMC	36	.	.	
+PenC v0 VBu	1	Nyaraomon	DMC	48	.	.	
+PenC v0 VBu	2	Agumon (SP)	DMC	1	.	.	
+PenC v0 VBu	3	Gabumon (SP)	DMC	1	.	.	
+PenC v0 VBu	4	Plotmon	DMC	21	.	.	
+PenC v0 VBu	5	Greymon (SP)	DMC	3	.	.	
+PenC v0 VBu	6	Leomon	DMC	6	.	.	
+PenC v0 VBu	7	Garurumon (SP)	DMC	3	.	.	
+PenC v0 VBu	8	Igamon	DMC	35	.	.	
+PenC v0 VBu	9	Angemon	DMC	6	.	.	
+PenC v0 VBu	10	Tailmon	DMC	51	.	.	
+PenC v0 VBu	11	Metal Greymon	DMC	2	.	.	
+PenC v0 VBu	12	Asuramon	DMC	6	.	.	
+PenC v0 VBu	13	Were Garurumon	DMC	26	.	.	
+PenC v0 VBu	14	Metal Mamemon	DMC	105	.	.	
+PenC v0 VBu	15	Holy Angemon	DMC	104	.	.	
+PenC v0 VBu	16	Angewomon	DMC	81	.	.	
+PenC v0 VBu	17	War Greymon	DMC	34	.	.	
+PenC v0 VBu	18	Metal Garurumon	DMC	16	.	.	
+PenC v0 VBu	19	Dominimon	DMC	19	.	.	
+PenC v0 VBu	20	Quantumon	DMC	113	.	.	
+PenC v0 VBu	21	Omegamon	DMC	32	.	.	
+PenC v0 VBu	22	Mastemon	DMC	104	.	.	
+PenC v0 VBu	23	Gammamon	DMC	20	.	.	
+PenC v0 VBu	24	Betel Gammamon	DMC	54	.	.	
+PenC v0 VBu	25	Kaus Gammamon	DMC	47	.	.	
+PenC v0 VBu	26	Wezen Gammamon	DMC	10	.	.	
+PenC v0 VBu	27	Gulus Gammamon	DMC	53	.	.	
+PenC v0 VBu	28	Canoweissmon	DMC	16	.	.	
+PenC v0 VBu	29	Regulusmon	DMC	33	.	.	
+PenC v0 VBu	30	Siriusmon	DMC	30	.	.	
+PenC v0 VBu	31	Arcturusmon	DMC	31	.	.	
+PenC v0 VBu	32	Proximamon	DMC	111	.	.	
+PenC v1 NSp	0	Bubbmon	DMC	55	.	.	
+PenC v1 NSp	1	Mochimon	DMC	56	.	.	
+PenC v1 NSp	2	Tentomon	DMC	57	.	.	
+PenC v1 NSp	3	Gotsumon	DMC	58	.	.	
+PenC v1 NSp	4	Otamamon	DMC	37	.	.	
+PenC v1 NSp	5	Kabuterimon	DMC	3	.	.	
+PenC v1 NSp	6	Tortomon	DMC	25	.	.	
+PenC v1 NSp	7	Monochromon	DMC	3	.	.	
+PenC v1 NSp	8	Starmon	DMC	22	.	.	
+PenC v1 NSp	9	Gekomon	DMC	60	.	.	
+PenC v1 NSp	10	Kuwagamon	DMC	6	.	.	
+PenC v1 NSp	11	Tailmon	DMC	51	.	.	
+PenC v1 NSp	12	Atlur Kabuterimon (Blue)	DMC	65	.	.	
+PenC v1 NSp	13	Jyagamon	DMC	63	.	.	
+PenC v1 NSp	14	Triceramon	DMC	62	.	.	
+PenC v1 NSp	15	Piccolomon	DMC	7	.	.	
+PenC v1 NSp	16	Tonosama Gekomon	DMC	29	.	.	
+PenC v1 NSp	17	Okuwamon	DMC	59	.	.	
+PenC v1 NSp	18	Angewomon	DMC	81	.	.	
+PenC v1 NSp	19	Herakle Kabuterimon	DMC	30	.	.	
+PenC v1 NSp	20	Saber Leomon	DMC	26	.	.	
+PenC v1 NSp	21	Metal Etemon	DMC	43	.	.	
+PenC v1 NSp	22	Holydramon	DMC	16	.	.	
+PenC v1 NSp	23	Blastmon	DMC	22	.	.	
+PenC v1 NSp	24	El Doradimon	DMC	24	.	.	
+PenC v1 NSp	25	Gran Kuwagamon	DMC	67	.	.	
+PenC v1 NSp	26	Tlalocmon	DMC	4	.	.	
+PenC v1 NSp	27	Mastemon	DMC	104	.	.	
+PenC v1 NSp	28	Angoramon	DMC	47	.	.	
+PenC v1 NSp	29	Symbare Angoramon	DMC	21	.	.	
+PenC v1 NSp	30	Lamortmon	DMC	32	.	.	
+PenC v1 NSp	31	Diarbbitmon	DMC	31	.	.	
+PenC v2 DSa	0	Pitchmon	DMC	68	.	.	
+PenC v2 DSa	1	Pukamon	DMC	56	.	.	
+PenC v2 DSa	2	Gomamon	DMC	44	.	.	
+PenC v2 DSa	3	Ganimon	DMC	67	.	.	
+PenC v2 DSa	4	Shakomon	DMC	41	.	.	
+PenC v2 DSa	5	Rukamon	DMC	14	.	.	
+PenC v2 DSa	6	Ikkakumon	DMC	98	.	.	
+PenC v2 DSa	7	Seadramon	DMC	5	.	.	
+PenC v2 DSa	8	Coelamon	DMC	5	.	.	
+PenC v2 DSa	9	Octmon	DMC	18	.	.	
+PenC v2 DSa	10	Gesomon	DMC	45	.	.	
+PenC v2 DSa	11	Ebidramon	DMC	69	.	.	
+PenC v2 DSa	12	Whamon (Perfect)	DMC	9	.	.	
+PenC v2 DSa	13	Zudomon	DMC	16	.	.	
+PenC v2 DSa	14	Mega Seadramon	DMC	73	.	.	
+PenC v2 DSa	15	Anomalocarimon	DMC	69	.	.	
+PenC v2 DSa	16	Dagomon	DMC	46	.	.	
+PenC v2 DSa	17	Marine Devimon	DMC	72	.	.	
+PenC v2 DSa	18	Hangyomon	DMC	46	.	.	
+PenC v2 DSa	19	Marine Angemon	DMC	8	.	.	
+PenC v2 DSa	20	Metal Seadramon	DMC	30	.	.	
+PenC v2 DSa	21	Pukumon	DMC	48	.	.	
+PenC v2 DSa	22	Plesiomon	DMC	21	.	.	
+PenC v2 DSa	23	Vikemon	DMC	28	.	.	
+PenC v2 DSa	24	Jumbo Gamemon	DMC	100	.	.	
+PenC v2 DSa	25	Cthyllamon	DMC	114	.	.	
+PenC v2 DSa	26	Mitamamon	DMC	78	.	.	
+PenC v2 DSa	27	Aegisdramon (SU)	DMC	10	.	.	
+PenC v2 DSa	28	Jellymon	DMC	4	.	.	
+PenC v2 DSa	29	Tesla Jellymon	DMC	81	.	.	
+PenC v2 DSa	30	Thetismon	DMC	6	.	.	
+PenC v2 DSa	31	Amphimon	DMC	0	.	.	
+PenC v3 NSo	0	Mokumon	DMC	99	.	.	
+PenC v3 NSo	1	Peti Meramon	DMC	54	.	.	
+PenC v3 NSo	2	Bakumon	DMC	47	.	.	
+PenC v3 NSo	3	Candmon	DMC	17	.	.	
+PenC v3 NSo	4	Pico Devimon	DMC	76	.	.	
+PenC v3 NSo	5	Hanumon	DMC	48	.	.	
+PenC v3 NSo	6	Garurumon (SP)	DMC	3	.	.	
+PenC v3 NSo	7	Meramon	DMC	6	.	.	
+PenC v3 NSo	8	Wizarmon	DMC	81	.	.	
+PenC v3 NSo	9	Devimon	DMC	26	.	.	
+PenC v3 NSo	10	Bakemon	DMC	27	.	.	
+PenC v3 NSo	11	Dokugumon	DMC	74	.	.	
+PenC v3 NSo	12	Mammon	DMC	98	.	.	
+PenC v3 NSo	13	Were Garurumon	DMC	26	.	.	
+PenC v3 NSo	14	Death Meramon	DMC	78	.	.	
+PenC v3 NSo	15	Pumpmon	DMC	77	.	.	
+PenC v3 NSo	16	Vamdemon	DMC	50	.	.	
+PenC v3 NSo	17	Fantomon	DMC	49	.	.	
+PenC v3 NSo	18	Lady Devimon	DMC	50	.	.	
+PenC v3 NSo	19	Skull Mammon	DMC	11	.	.	
+PenC v3 NSo	20	Boltmon	DMC	28	.	.	
+PenC v3 NSo	21	Demon	DMC	16	.	.	
+PenC v3 NSo	22	Piemon	DMC	82	.	.	
+PenC v3 NSo	23	Anubimon	DMC	53	.	.	
+PenC v3 NSo	24	Noble Pumpmon	DMC	77	.	.	
+PenC v3 NSo	25	Callismon	DMC	26	.	.	
+PenC v3 NSo	26	Voltobautamon	DMC	116	.	.	
+PenC v3 NSo	27	Mastemon	DMC	104	.	.	
+PenC v3 NSo	28	Loogamon	DMC	17	.	.	
+PenC v3 NSo	29	Loogarmon	DMC	1	.	.	
+PenC v3 NSo	30	Soloogarmon	DMC	33	.	.	
+PenC v3 NSo	31	Fenriloogamon	DMC	34	.	.	
+PenC v4 WGu	0	Nyokimon	DMC	83	.	.	
+PenC v4 WGu	1	Pyocomon	DMC	84	.	.	
+PenC v4 WGu	2	Piyomon	DMC	1	.	.	
+PenC v4 WGu	3	Floramon	DMC	37	.	.	
+PenC v4 WGu	4	Mushmon	DMC	92	.	.	
+PenC v4 WGu	5	Palmon	DMC	4	.	.	
+PenC v4 WGu	6	V-dramon	DMC	93	.	.	
+PenC v4 WGu	7	Birdramon	DMC	52	.	.	
+PenC v4 WGu	8	Togemon	DMC	87	.	.	
+PenC v4 WGu	9	Kiwimon	DMC	89	.	.	
+PenC v4 WGu	10	Woodmon	DMC	53	.	.	
+PenC v4 WGu	11	Red Veggiemon	DMC	47	.	.	
+PenC v4 WGu	12	Aero V-dramon	DMC	106	.	.	
+PenC v4 WGu	13	Garudamon	DMC	38	.	.	
+PenC v4 WGu	14	Blossomon	DMC	42	.	.	
+PenC v4 WGu	15	Delumon	DMC	80	.	.	
+PenC v4 WGu	16	Jyureimon	DMC	95	.	.	
+PenC v4 WGu	17	Gerbemon	DMC	15	.	.	
+PenC v4 WGu	18	Lilimon	DMC	30	.	.	
+PenC v4 WGu	19	Hououmon	DMC	91	.	.	
+PenC v4 WGu	20	Griffomon	DMC	21	.	.	
+PenC v4 WGu	21	Pinochimon	DMC	94	.	.	
+PenC v4 WGu	22	Rosemon	DMC	57	.	.	
+PenC v4 WGu	23	Ulforce V-dramon	DMC	106	.	.	
+PenC v4 WGu	24	Rafflesimon	DMC	42	.	.	
+PenC v4 WGu	25	Hydramon	DMC	27	.	.	
+PenC v4 WGu	26	Mitamamon	DMC	78	.	.	
+PenC v4 WGu	27	Cernumon	DMC	60	.	.	
+PenC v4 WGu	28	Pteromon	DMC	47	.	.	
+PenC v4 WGu	29	Galemon	DMC	90	.	.	
+PenC v4 WGu	30	Grand Galemon	DMC	28	.	.	
+PenC v4 WGu	31	Zephagamon	DMC	47	.	.	
+PenC v5 MEm	0	Choromon	DMC	91	.	.	
+PenC v5 MEm	1	Caprimon	DMC	14	.	.	
+PenC v5 MEm	2	Toy Agumon	DMC	1	.	.	
+PenC v5 MEm	3	Kokuwamon	DMC	69	.	.	
+PenC v5 MEm	4	Hagurumon	DMC	101	.	.	
+PenC v5 MEm	5	Greymon (SP)	DMC	3	.	.	
+PenC v5 MEm	6	Revolmon	DMC	103	.	.	
+PenC v5 MEm	7	Tankmon	DMC	10	.	.	
+PenC v5 MEm	8	Clockmon	DMC	107	.	.	
+PenC v5 MEm	9	Guardromon	DMC	39	.	.	
+PenC v5 MEm	10	Mechanorimon	DMC	21	.	.	
+PenC v5 MEm	11	Thunderballmon	DMC	81	.	.	
+PenC v5 MEm	12	Metal Greymon	DMC	2	.	.	
+PenC v5 MEm	13	Andromon	DMC	12	.	.	
+PenC v5 MEm	14	Knightmon	DMC	109	.	.	
+PenC v5 MEm	15	Big Mamemon	DMC	115	.	.	
+PenC v5 MEm	16	Megadramon	DMC	116	.	.	
+PenC v5 MEm	17	Waru Monzaemon	DMC	110	.	.	
+PenC v5 MEm	18	Cyberdramon	DMC	26	.	.	
+PenC v5 MEm	19	War Greymon	DMC	34	.	.	
+PenC v5 MEm	20	Metal Garurumon	DMC	16	.	.	
+PenC v5 MEm	21	Mugendramon	DMC	30	.	.	
+PenC v5 MEm	22	Venom Vamdemon	DMC	36	.	.	
+PenC v5 MEm	23	Hi Andromon	DMC	30	.	.	
+PenC v5 MEm	24	Ragnamon	DMC	10	.	.	
+PenC v5 MEm	25	Zeke Greymon	DMC	20	.	.	
+PenC v5 MEm	26	Omegamon	DMC	32	.	.	
+PenC v5 MEm	27	Chaosdramon (SU)	DMC	30	.	.	
+PenC v5 MEm	28	Commandramon	DMC	103	.	.	
+PenC v5 MEm	29	Hi-Commandramon	DMC	100	.	.	
+PenC v5 MEm	30	Cargodramon	DMC	87	.	.	
+PenC v5 MEm	31	Brigadramon	DMC	87	.	.	
+PenC v6 Saiyu	0	Fukamon	DMC	75	.	.	
+PenC v6 Saiyu	1	Mococomon	DMC	99	.	.	
+PenC v6 Saiyu	2	Kakamon	DMC	60	.	.	
+PenC v6 Saiyu	3	Kamemon	DMC	24	.	.	
+PenC v6 Saiyu	4	Fujamon	DMC	68	.	.	
+PenC v6 Saiyu	5	Takinmon	DMC	58	.	.	
+PenC v6 Saiyu	6	Hanumon	DMC	48	.	.	
+PenC v6 Saiyu	7	Xiquemon	DMC	44	.	.	
+PenC v6 Saiyu	8	Gawappamon	DMC	104	.	.	
+PenC v6 Saiyu	9	Lianpumon	DMC	58	.	.	
+PenC v6 Saiyu	10	Ginkakumon	DMC	1	.	.	
+PenC v6 Saiyu	11	Kinkakumon	DMC	11	.	.	
+PenC v6 Saiyu	12	Hakubamon	DMC	20	.	.	
+PenC v6 Saiyu	13	Turuiemon	DMC	26	.	.	
+PenC v6 Saiyu	14	Sanzomon	DMC	41	.	.	
+PenC v6 Saiyu	15	Huankunmon	DMC	68	.	.	
+PenC v6 Saiyu	16	Cho-Hakkaimon	DMC	33	.	.	
+PenC v6 Saiyu	17	Pandamon	DMC	20	.	.	
+PenC v6 Saiyu	18	Gokuwmon	DMC	57	.	.	
+PenC v6 Saiyu	19	Xingtianmon	DMC	28	.	.	
+PenC v6 Saiyu	20	Sagomon	DMC	47	.	.	
+PenC v6 Saiyu	21	Andiramon (Deva)	DMC	28	.	.	
+PenC v6 Saiyu	22	Erlangmon	DMC	46	.	.	
+PenC v6 Saiyu	22m	Erlangmon: Blast Mode	DMC	30	.	.	
+PenC v6 Saiyu	23	Xiangpengmon	DMC	4	.	.	
+PenC v6 Saiyu	24	Shagaramon	DMC	0	.	.	
+PenC v6 Saiyu	25	Nezhamon	DMC	17	.	.	
+PenC v6 Saiyu	25m	Nezhamon: Crimson Mode	DMC	93	.	.	
+PenC v6 Saiyu	26	Seiten Gokuwmon	DMC	4	.	.	
+PenC v6 Saiyu	27	Dijiangmon	DMC	53	.	.	
+PenC v6 Saiyu	28	Takutoumon	DMC	19	.	.	
+PenC v6 Saiyu	28m	Takutoumon: Wrath Mode	DMC	74	.	.	
+PenC v6 Saiyu	29	Jougamon	DMC	12	.	.	
+PenC v6 Saiyu	30	Shakamon	DMC	91	.	.	
+PenC v7 Toho	0	Tomorimon	DMC	91	.	.	
+PenC v7 Toho	1	Onibimon	DMC	37	.	.	
+PenC v7 Toho	2	Wankomon	DMC	105	.	.	
+PenC v7 Toho	3	Hanimon	DMC	22	.	.	
+PenC v7 Toho	4	Gasamon	DMC	65	.	.	
+PenC v7 Toho	5	Renamon	DMC	52	.	.	
+PenC v7 Toho	6	Siesamon	DMC	22	.	.	
+PenC v7 Toho	7	Peckmon	DMC	90	.	.	
+PenC v7 Toho	8	Kokeshimon	DMC	105	.	.	
+PenC v7 Toho	9	Shellmon	DMC	5	.	.	
+PenC v7 Toho	10	Musyamon	DMC	32	.	.	
+PenC v7 Toho	11	Fugamon	DMC	11	.	.	
+PenC v7 Toho	12	Manekimon	DMC	6	.	.	
+PenC v7 Toho	13	Tenkomon	DMC	68	.	.	
+PenC v7 Toho	14	Shishimamon	DMC	20	.	.	
+PenC v7 Toho	15	Yatagaramon	DMC	13	.	.	
+PenC v7 Toho	16	Karakurumon	DMC	71	.	.	
+PenC v7 Toho	17	Marine Bullmon	DMC	9	.	.	
+PenC v7 Toho	18	Oboromon	DMC	109	.	.	
+PenC v7 Toho	19	Karatenmon	DMC	52	.	.	
+PenC v7 Toho	20	Darumamon	DMC	16	.	.	
+PenC v7 Toho	21	Sekkamon	DMC	74	.	.	
+PenC v7 Toho	22	Amaterasumon	DMC	19	.	.	
+PenC v7 Toho	23	Ravmon	DMC	32	.	.	
+PenC v7 Toho	23m	Ravmon: Burst Mode	DMC	13	.	.	
+PenC v7 Toho	24	Kaguyamon	DMC	63	.	.	
+PenC v7 Toho	25	Ryugumon	DMC	9	.	.	
+PenC v7 Toho	26	Zanbamon	DMC	71	.	.	
+PenC v7 Toho	27	Tengumon	DMC	47	.	.	
+PenC v7 Toho	28	Ariemon	DMC	74	.	.	
+PenC v7 Toho	29	Yukinamon	DMC	47	.	.	
+PenC v7 Toho	30	Enmamon	DMC	3	.	.	
+DMC MH	0	Egg (Phase I)	DMC	14	.	.	
+DMC MH	1	Egg (Phase II)	DMC	14	.	.	
+DMC MH	2	Rathalos (Young)	DMC	1	.	.	
+DMC MH	3	Tigrex (Young)	DMC	14	.	.	
+DMC MH	4	Nargacuga (Young)	DMC	32	.	.	
+DMC MH	5	Zinogre (Young)	DMC	57	.	.	
+DMC MH	6	Gore Magala (Young)	DMC	13	.	.	
+DMC MH	7	Mizutsune (Young)	DMC	66	.	.	
+DMC MH	8	Rajang (Young)	DMC	21	.	.	
+DMC MH	9	Khezu (Young)	DMC	4	.	.	
+DMC MH	10	Rathalos	DMC	1	.	.	
+DMC MH	11	Azure Rathalos	DMC	1	.	.	
+DMC MH	12	Tigrex	DMC	58	.	.	
+DMC MH	13	Brute Tigrex	DMC	58	.	.	
+DMC MH	14	Zinogre	DMC	57	.	.	
+DMC MH	15	Stygian Zinogre	DMC	81	.	.	
+DMC MH	16	Nargacuga	DMC	32	.	.	
+DMC MH	17	Green Nargacuga	DMC	87	.	.	
+DMC MH	18	Gore Magala	DMC	13	.	.	
+DMC MH	19	Mizutsune	DMC	66	.	.	
+DMC MH	20	Rajang	DMC	21	.	.	
+DMC MH	21	Khezu	DMC	4	.	.	
+DMC MH	22	Red Khezu	DMC	4	.	.	
+DMC MH	23	Dreadking Rathalos	DMC	16	.	.	
+DMC MH	24	Silver Rathalos	DMC	3	.	.	
+DMC MH	25	Grimclaw Tigrex	DMC	58	.	.	
+DMC MH	26	Molten Tigrex	DMC	58	.	.	
+DMC MH	27	Silverwind Nargacuga	DMC	32	.	.	
+DMC MH	28	Lucent Nargacuga	DMC	85	.	.	
+DMC MH	29	Thunderlord Zinogre	DMC	73	.	.	
+DMC MH	30	Shagaru Magala	DMC	36	.	.	
+DMC MH	31	Chaotic Gore Magala	DMC	13	.	.	
+DMC MH	32	Apex Mizutsune	DMC	68	.	.	
+DMC MH	33	Violet Mizutsune	DMC	66	.	.	
+DMC MH	34	Soulseer Mizutsune	DMC	68	.	.	
+DMC MH	35	Furious Rajang	DMC	34	.	.	
+DMC MH	36	Rathalos Greymon	DMC	1	.	.	
+DMC MH	37	Zino Garurumon	DMC	57	.	.	
+DMC GZ	0	Botamon	DMC	0	.	.	
+DMC GZ	1	Koromon	DMC	0	.	.	
+DMC GZ	2	Baby Godzilla	DMC	26	.	.	
+DMC GZ	3	Agumon	DMC	1	.	.	
+DMC GZ	4	Monodramon	DMC	20	.	.	
+DMC GZ	5	Little Godzilla	DMC	68	.	.	
+DMC GZ	6	Greymon	DMC	3	.	.	
+DMC GZ	7	Biollante	DMC	91	.	.	
+DMC GZ	8	Godzillasaurus	DMC	26	.	.	
+DMC GZ	9	Raremon	DMC	15	.	.	
+DMC GZ	10	Gigan	DMC	20	.	.	
+DMC GZ	11	Mothra	DMC	91	.	.	
+DMC GZ	12	King Ghidorah (1991)	DMC	4	.	.	
+DMC GZ	13	Rodan	DMC	5	.	.	
+DMC GZ	14	Godzilla Jr	DMC	1	.	.	
+DMC GZ	15	Metal Greymon (Vaccine): G-Erosion Mode	DMC	2	.	.	
+DMC GZ	16	Metal Greymon (Vaccine)	DMC	2	.	.	
+DMC GZ	17	Space Godzilla	DMC	16	.	.	
+DMC GZ	18	Godzilla (1954)	DMC	75	.	.	
+DMC GZ	19	Skull Greymon: G-Erosion Mode	DMC	116	.	.	
+DMC GZ	20	Zilla	DMC	26	.	.	
+DMC GZ	21	Kiryu	DMC	33	.	.	
+DMC GZ	22	Mecha-King Ghidorah	DMC	81	.	.	
+DMC GZ	23	Fire Rodan	DMC	78	.	.	
+DMC GZ	24	Godzilla (1994)	DMC	1	.	.	
+DMC GZ	25	War Greymon: G-Erosion Mode	DMC	13	.	.	
+DMC GZ	26	War Greymon	DMC	34	.	.	
+DMC GZ	27	Destoroyah	DMC	30	.	.	
+DMC GZ	28	Godzilla (1999)	DMC	78	.	.	
+DMC GZ	29	Mugendramon: MFS-3	DMC	30	.	.	
+DMC GZ	30	Mechagodzilla (1993)	DMC	33	.	.	
+DMC GZ	31	Burning Godzilla	DMC	3	.	.	
+DMC GZ	32	Chibi Godzilla	DMC	1	.	.	
+DMC GZ	33	Chibi Mechagodzilla	DMC	4	.	.	
+PenC GZ	0	Botamon	DMC	0	.	.	
+PenC GZ	1	Punimon	DMC	0	.	.	
+PenC GZ	2	Koromon	DMC	0	.	.	
+PenC GZ	3	Tsunomon	DMC	0	.	.	
+PenC GZ	4	Baby Godzilla	DMC	26	.	.	
+PenC GZ	5	Agumon	DMC	1	.	.	
+PenC GZ	6	Mothra (Larva)	DMC	21	.	.	
+PenC GZ	7	Dorat	DMC	36	.	.	
+PenC GZ	8	Monodramon	DMC	20	.	.	
+PenC GZ	9	Gabumon	DMC	1	.	.	
+PenC GZ	10	Minilla	DMC	14	.	.	
+PenC GZ	11	Little Godzilla	DMC	68	.	.	
+PenC GZ	12	Greymon: G-Erosion Mode	DMC	3	.	.	
+PenC GZ	13	Tyranomon	DMC	3	.	.	
+PenC GZ	14	Flymon	DMC	5	.	.	
+PenC GZ	15	Mothra Leo	DMC	91	.	.	
+PenC GZ	16	King Ghidorah (1991)	DMC	4	.	.	
+PenC GZ	17	Gigan (2004)	DMC	20	.	.	
+PenC GZ	18	Strikedramon	DMC	17	.	.	
+PenC GZ	19	Raptordramon	DMC	33	.	.	
+PenC GZ	20	Garurumon	DMC	3	.	.	
+PenC GZ	21	Godzilla (1954)	DMC	75	.	.	
+PenC GZ	22	Godzilla Jr	DMC	1	.	.	
+PenC GZ	23	Metal Greymon (Vaccine): G-Erosion Mode	DMC	2	.	.	
+PenC GZ	24	Master Tyranomon	DMC	17	.	.	
+PenC GZ	25	Battra	DMC	22	.	.	
+PenC GZ	26	Aqua Mothra	DMC	33	.	.	
+PenC GZ	27	Skull Greymon: G-Erosion Mode	DMC	116	.	.	
+PenC GZ	28	Mecha-King Ghidorah	DMC	81	.	.	
+PenC GZ	29	Monster X	DMC	4	.	.	
+PenC GZ	30	Mechagodzilla (1974)	DMC	30	.	.	
+PenC GZ	31	Baragon	DMC	62	.	.	
+PenC GZ	32	Were Garurumon	DMC	26	.	.	
+PenC GZ	33	Metal Greymon (Virus): G-Erosion Mode	DMC	2	.	.	
+PenC GZ	34	Atlur Kabuterimon	DMC	65	.	.	
+PenC GZ	35	Godzilla (1999)	DMC	78	.	.	
+PenC GZ	36	Godzilla (2004)	DMC	16	.	.	
+PenC GZ	37	Godzilla (2022)	DMC	3	.	.	
+PenC GZ	38	War Greymon: G-Erosion Mode	DMC	13	.	.	
+PenC GZ	39	Dinomon	DMC	1	.	.	
+PenC GZ	40	Armor Mothra	DMC	12	.	.	
+PenC GZ	41	Mugendramon: MFS-3	DMC	30	.	.	
+PenC GZ	42	Mechagodzilla (1993)	DMC	33	.	.	
+PenC GZ	42m	Super Mechagodzilla	DMC	30	.	.	
+PenC GZ	43	King Ghidorah (2001)	DMC	4	.	.	
+PenC GZ	44	Keizer Ghidorah	DMC	81	.	.	
+PenC GZ	45	Jet Jaguar	DMC	6	.	.	
+PenC GZ	46	King Caesar	DMC	26	.	.	
+PenC GZ	47	Metal Garurumon	DMC	16	.	.	
+PenC GZ	48	Metal Garurumon: G-Erosion Mode	DMC	40	.	.	
+PenC GZ	49	Gatling Gigan	DMC	87	.	.	
+PenC GZ	50	Black War Greymon: G-Erosion Mode	DMC	13	.	.	
+PenC GZ	51	Megalon	DMC	73	.	.	
+PenC GZ	52	Orga	DMC	48	.	.	
+PenC GZ	53	Hedorah	DMC	15	.	.	
+PenC GZ	54	Super Godzilla	DMC	3	.	.	
+PenC GZ	55	Burning Godzilla (2025)	DMC	1	.	.	
+PenC GZ	56	Omegamon: G-Fusion Mode	DMC	31	.	.	
+DM20	0	Botamon	DM20	0	0	.	
+DM20	1	Koromon	DM20	0	0	.	
+DM20	2	Agumon	DM20	1	26	.	
+DM20	3	Betamon	DM20	4	31	.	
+DM20	4	Greymon	DM20	3	25	.	
+DM20	5	Tyranomon	DM20	3	26	.	
+DM20	6	Devimon	DM20	6	12	.	
+DM20	7	Meramon	DM20	6	17	.	
+DM20	8	Airdramon	DM20	5	34	.	
+DM20	9	Seadramon	DM20	5	14	.	
+DM20	10	Numemon	DM20	15	15	.	
+DM20	11	MetalGreymon	DM20	2	26	.	
+DM20	12	Mamemon	DM20	7	6	.	
+DM20	13	Monzaemon	DM20	8	6	.	
+DM20	14	BlitzGreymon	DM20	41	4	.	
+DM20	15	BanchoMamemon	DM20	37	32	.	
+DM20	16	Punimon	DM20	0	0	.	
+DM20	17	Tsunomon	DM20	0	0	.	
+DM20	18	Gabumon	DM20	1	25	.	
+DM20	19	Elecmon	DM20	4	41	.	
+DM20	20	Kabuterimon	DM20	3	25	.	
+DM20	21	Garurumon	DM20	3	5	.	
+DM20	22	Angemon	DM20	6	22	.	
+DM20	23	Yukidarumon	DM20	6	35	.	
+DM20	24	Birdramon	DM20	5	17	.	
+DM20	25	Whamon	DM20	9	5	.	
+DM20	26	Vegimon	DM20	15	15	.	
+DM20	27	SkullGreymon	DM20	10	2	.	
+DM20	28	MetalMamemon	DM20	7	26	.	
+DM20	29	Vadamon	DM20	14	8	.	
+DM20	30	SkullMammon	DM20	33	11	.	
+DM20	31	CresGarurumon	DM20	12	30	.	
+DM20	32	Poyomon	DM20	0	0	.	
+DM20	33	Tokomon	DM20	0	0	.	
+DM20	34	Patamon	DM20	1	12	.	
+DM20	35	Kunemon	DM20	4	41	.	
+DM20	36	Unimon	DM20	3	25	.	
+DM20	37	Kentarumon	DM20	3	1	.	
+DM20	38	Ogremon	DM20	6	11	.	
+DM20	39	Bakemon	DM20	6	27	.	
+DM20	40	Shellmon	DM20	5	9	.	
+DM20	41	Drimogemon	DM20	11	5	.	
+DM20	42	Sukamon	DM20	15	15	.	
+DM20	43	Andromon	DM20	12	2	.	
+DM20	44	Giromon	DM20	7	20	.	
+DM20	45	Etemon	DM20	13	8	.	
+DM20	46	HiAndromon	DM20	29	0	.	
+DM20	47	KingEtemon	DM20	28	38	.	
+DM20	48	Yuramon	DM20	0	0	.	
+DM20	49	Tanemon	DM20	0	0	.	
+DM20	50	Piyomon	DM20	1	5	.	
+DM20	51	Palmon	DM20	4	39	.	
+DM20	52	Monochromon	DM20	3	31	.	
+DM20	53	Cockatorimon	DM20	3	12	.	
+DM20	54	Leomon	DM20	6	11	.	
+DM20	55	Kuwagamon	DM20	6	23	.	
+DM20	56	Coelamon	DM20	5	41	.	
+DM20	57	Mojyamon	DM20	11	5	.	
+DM20	58	Nanimon	DM20	15	15	.	
+DM20	59	Megadramon	DM20	12	2	.	
+DM20	60	Piccolomon	DM20	7	22	.	
+DM20	61	Digitamamon	DM20	13	8	.	
+DM20	62	Aegisdramon	DM20	2	9	.	
+DM20	63	Titamon	DM20	12	30	.	
+DM20	64	Zurumon	DM20	0	0	.	
+DM20	65	Pagumon	DM20	0	0	.	
+DM20	66	Gazimon	DM20	1	41	.	
+DM20	67	Gizamon	DM20	4	31	.	
+DM20	68	DarkTyranomon	DM20	3	26	.	
+DM20	69	Cyclomon	DM20	3	5	.	
+DM20	70	Devidramon	DM20	6	5	.	
+DM20	71	Tuskmon	DM20	6	25	.	
+DM20	72	Flymon	DM20	5	14	.	
+DM20	73	Deltamon	DM20	11	5	.	
+DM20	74	Raremon	DM20	15	15	.	
+DM20	75	MetalTyranomon	DM20	12	2	.	
+DM20	76	Nanomon	DM20	7	22	.	
+DM20	77	X-Tyranomon	DM20	13	8	.	
+DM20	78	Mugendramon	DM20	37	25	.	
+DM20	79	Pinocchimon	DM20	39	28	.	
+DM20	80	Sakumon	DM20	25	25	.	
+DM20	81	Sakuttomon	DM20	25	25	.	
+DM20	82	Zubamon	DM20	31	25	.	
+DM20	83	Zubaigarmon	DM20	12	31	.	
+DM20	84	Duramon	DM20	12	14	.	
+DM20	85	Durandamon	DM20	30	31	.	
+DM20	86	Hackmon	DM20	26	1	.	
+DM20	87	BaoHackmon	DM20	26	12	.	
+DM20	88	SaverHackmon	DM20	5	16	.	
+DM20	89	Jesmon	DM20	12	34	.	
+DM20	90	Petitmon	DM20	17	17	.	
+DM20	91	Babydmon	DM20	18	18	.	
+DM20	92	Dracomon	DM20	18	31	.	
+DM20	93	Coredramon (Blue)	DM20	16	21	.	
+DM20	94	Wingdramon	DM20	24	31	.	
+DM20	95	Slayerdramon	DM20	20	31	.	
+DM20	96	Coredramon (Green)	DM20	16	21	.	
+DM20	97	Groundramon	DM20	6	13	.	
+DM20	98	Breakdramon	DM20	20	5	.	
+DM20	99	Pichimon	DM20	0	0	.	
+DM20	100	Pukamon	DM20	0	0	.	
+DM20	101	Coronamon	DM20	6	17	.	
+DM20	102	Firamon	DM20	26	7	.	
+DM20	103	Flaremon	DM20	6	14	.	
+DM20	104	Apollomon	DM20	45	3	.	
+DM20	105	Lunamon	DM20	26	0	.	
+DM20	106	Lekismon	DM20	0	5	.	
+DM20	107	Crescemon	DM20	12	5	.	
+DM20	108	Dianamon	DM20	42	5	.	
+DM20	109	Agumon (anime)	DM20	1	26	.	
+DM20	110	Greymon (anime)	DM20	3	5	.	
+DM20	111	MetalGreymon (anime)	DM20	2	26	.	
+DM20	112	WarGreymon	DM20	38	26	.	
+DM20	113	Gabumon (anime)	DM20	1	25	.	
+DM20	114	Garurumon (anime)	DM20	3	26	.	
+DM20	115	WereGarurumon	DM20	26	32	.	
+DM20	116	MetalGarurumon	DM20	45	25	.	
+DM20	117	Dodomon	DM20	13	5	.	
+DM20	118	Dorimon	DM20	13	24	.	
+DM20	119	Dorumon	DM20	36	13	.	
+DM20	120	Dorugamon	DM20	38	13	.	
+DM20	121	Dorugremon	DM20	31	13	.	
+DM20	122	Alphamon	DM20	5	13	.	
+DM20	123	YukimiBotamon	DM20	45	45	.	
+DM20	124	Nyaromon	DM20	40	40	.	
+DM20	125	Plotmon	DM20	14	43	.	
+DM20	126	Meicoomon	DM20	13	26	.	
+DM20	127	Meicrackmon	DM20	3	26	.	
+DM20	128	Rasielmon	DM20	13	22	.	
+DM20	129	Omegamon Alter-S	DM20	16	12	.	
+DM20	130	RustTyranomon	DM20	3	32	.	
+DM20	131	Examon	DM20	37	12	.	
+DM20	132	GraceNovamon	DM20	45	41	.	
+DM20	133	Omegamon	DM20	12	16	.	
+DMX1	0	Puttimon	DMX	2	2	0	Can't scan (baby)
+DMX1	1	Tokomon X	DMX	1	1	1	
+DMX1	2	Dracomon X	DMX	17	32	2	
+DMX1	3	Gabumon X	DMX	37	3	3	
+DMX1	4	Sistermon Blanc	DMX	10	24	4	
+DMX1	5	Renamon X	DMX	29	10	5	
+DMX1	6	Agumon X	DMX	18	3	2	
+DMX1	7	Herissmon	DMX	10	9	6	
+DMX1	8	Growmon X	DMX	32	6	9	
+DMX1	9	Rhinomon X	DMX	44	45	7	
+DMX1	10	Sistermon Ciel	DMX	32	26	8	
+DMX1	11	Leomon X	DMX	4	31	10	
+DMX1	12	Tyrannomon X	DMX	8	3	2	
+DMX1	13	Sangloupmon	DMX	20	27	7	
+DMX1	14	Damemon	DMX	12	8	11	
+DMX1	15	Megalo Growmon X	DMX	30	40	16	
+DMX1	16	Were Garurumon X	DMX	3	45	12	
+DMX1	17	Cho-Hakkaimon	DMX	24	35	14	
+DMX1	18	Lilimon X	DMX	30	7	3	
+DMX1	19	Cerberumon X	DMX	25	3	1	
+DMX1	20	Metal Greymon X	DMX	3	16	12	
+DMX1	21	Lucemon: Falldown Mode	DMX	13	4	15	
+DMX1	22	Skull Baluchimon	DMX	11	27	17	
+DMX1	23	Metal Tyrannomon X	DMX	6	3	16	
+DMX1	24	Yatagaramon	DMX	19	38	18	
+DMX1	25	Craniummon X	DMX	12	28	9	
+DMX1	26	Metal Garurumon X	DMX	30	9	16	
+DMX1	27	Beel Starmon X	DMX	21	9	23	
+DMX1	28	Megidramon X	DMX	14	17	21	
+DMX1	29	Sleipmon X	DMX	34	19	20	
+DMX1	30	War Greymon X	DMX	25	8	21	
+DMX1	31	Sakuyamon X	DMX	36	17	22	
+DMX1	32	Beelzebumon X	DMX	6	10	19	
+DMX1	33	Jesmon X	DMX	12	36	7	
+DMX1	34	Valdurmon	DMX	22	2	11	
+DMX1	35	Belial Vamdemon	DMX	14	10	5	
+DMX1	36	Rafflesimon	DMX	42	2	24	
+DMX1	37	Platinum Numemon	DMX	15	34	27	
+DMX1	38	Omegamon X	DMX	39	8	26	
+DMX1	39	Diablomon X	DMX	43	41	17	
+DMX1	40	Dukemon X	DMX	32	21	9	
+DMX1	41	Alphamon (SU)	DMX	5	13	8	
+DMX1	42	Minervamon X	DMX	31	13	7	
+DMX1	43	Lord Knightmon X	DMX	5	12	9	
+DMX1	44	Tobucatmon	DMX	45	3	11	
+DMX2	0	Kiimon	DMX	1	1	0	Can't scan (baby)
+DMX2	1	Yarmon	DMX	0	0	0	
+DMX2	2	Agumon X (Black)	DMX	0	3	3	
+DMX2	3	Gomamon X	DMX	47	3	0	
+DMX2	4	Kokuwamon X	DMX	49	57	18	
+DMX2	5	Impmon X	DMX	0	37	15	
+DMX2	6	Plotmon X	DMX	21	46	11	
+DMX2	7	Otamamon X	DMX	1	24	0	
+DMX2	8	Herissmon	DMX	10	9	6	
+DMX2	9	Duskmon	DMX	25	53	8	
+DMX2	10	Dark Tyrannomon X	DMX	20	17	21	
+DMX2	11	Mantaraymon X	DMX	55	5	3	
+DMX2	12	Kuwagamon X	DMX	50	49	1	
+DMX2	13	Ogremon X	DMX	28	19	18	
+DMX2	14	Nefertimon X	DMX	3	22	11	
+DMX2	15	Seadramon X	DMX	5	14	25	
+DMX2	16	Allomon X	DMX	37	34	21	
+DMX2	17	Numemon X	DMX	15	27	27	
+DMX2	18	Filmon	DMX	20	10	6	
+DMX2	19	Velgrmon	DMX	27	34	5	
+DMX2	20	Metal Greymon X (Virus)	DMX	30	3	16	
+DMX2	21	Lady Devimon X	DMX	41	10	17	
+DMX2	22	Okuwamon X	DMX	49	32	7	
+DMX2	23	Triceramon X	DMX	51	24	11	
+DMX2	24	Vamdemon X	DMX	38	33	5	
+DMX2	25	Mephismon X	DMX	30	22	11	
+DMX2	26	Mega Seadramon X	DMX	52	57	9	
+DMX2	27	Metal Fantomon	DMX	32	27	8	
+DMX2	28	Mammon X	DMX	22	51	11	
+DMX2	29	Mametyramon	DMX	4	10	17	
+DMX2	30	Stiffilmon	DMX	33	4	2	
+DMX2	31	Kaiser Leomon	DMX	23	13	19	
+DMX2	32	Black War Greymon X	DMX	25	3	19	
+DMX2	33	Ofanimon X: Falldown Mode	DMX	32	36	8	
+DMX2	34	Grandis Kuwagamon	DMX	49	3	1	
+DMX2	35	Ultimate Brachimon	DMX	6	24	23	
+DMX2	36	Dark Knightmon X	DMX	33	34	8	
+DMX2	37	Cherubimon X (Vice)	DMX	57	13	19	
+DMX2	38	Giga Seadramon	DMX	23	10	2	
+DMX2	39	Dinorexmon	DMX	20	17	12	
+DMX2	40	Chaosdramon X	DMX	33	56	21	
+DMX2	41	Rosemon X	DMX	19	5	24	
+DMX2	42	Beel Starmon X	DMX	21	9	23	
+DMX2	43	Prince Mamemon X	DMX	48	24	5	
+DMX2	44	Skull Mammon X	DMX	31	51	7	
+DMX2	45	Metal Piranimon	DMX	49	40	1	
+DMX2	46	Rasenmon: Fury Mode	DMX	10	36	12	
+DMX2	47	Raihimon	DMX	56	12	14	
+DMX2	48	Bagramon	DMX	10	25	17	
+DMX2	49	Demon X	DMX	8	24	3	
+DMX2	50	Lilithmon X	DMX	41	2	17	
+DMX2	51	Lucemon X	DMX	30	17	15	
+DMX2	52	Belphemon X	DMX	45	41	12	
+DMX2	53	Leviamon X	DMX	10	19	18	
+DMX2	54	Barbamon X	DMX	41	8	5	
+DMX2	55	Beelzebumon X (SU)	DMX	6	10	19	
+DMX2	56	Diablomon X	DMX	43	41	17	
+DMX2	57	Rasenmon	DMX	31	36	21	
+DMX2	58	Ancient Sphinxmon (SU)	DMX	27	8	16	
+DMX2	59	Darkness Bagramon	DMX	30	41	19	
+DMX3	0	Zerimon	DMX	1	1	0	Can't scan (baby)
+DMX3	1	Cocomon	DMX	1	1	0	Can't scan (baby)
+DMX3	2	Kuramon	DMX	1	1	0	Can't scan (baby)
+DMX3	3	Gummymon	DMX	1	22	0	
+DMX3	4	Chocomon	DMX	1	22	0	
+DMX3	5	Tsumemon	DMX	20	27	22	
+DMX3	6	Terriermon X	DMX	37	18	3	
+DMX3	7	Palmon X	DMX	42	44	13	
+DMX3	8	DORUmon	DMX	48	13	19	
+DMX3	9	Lopmon X	DMX	22	18	3	
+DMX3	10	Shakomon X	DMX	9	13	19	
+DMX3	11	Ryudamon	DMX	26	24	26	
+DMX3	12	Blucomon	DMX	22	20	11	
+DMX3	13	Jazamon	DMX	52	39	8	
+DMX3	14	Keramon X	DMX	27	24	5	
+DMX3	15	Siesamon X	DMX	30	5	15	
+DMX3	16	Meramon X	DMX	17	56	3	
+DMX3	17	DORUgamon	DMX	25	13	19	
+DMX3	18	Pteranomon X	DMX	33	12	23	Not scanned
+DMX3	19	Togemon X	DMX	4	10	6	
+DMX3	20	Pegasmon X	DMX	22	19	9	
+DMX3	21	Wizarmon X	DMX	57	17	18	
+DMX3	22	Ginryumon	DMX	31	24	20	
+DMX3	23	Tailmon X	DMX	2	46	11	
+DMX3	24	Tylomon X	DMX	50	33	7	
+DMX3	25	Omekamon	DMX	30	48	5	
+DMX3	26	Paledramon	DMX	2	24	11	
+DMX3	27	Jazardmon	DMX	21	9	16	
+DMX3	28	Omega Shoutmon X	DMX	17	4	10	
+DMX3	29	Cyberdramon X	DMX	20	56	16	
+DMX3	30	DORUguremon	DMX	32	13	8	
+DMX3	31	Garudamon X	DMX	24	10	14	
+DMX3	32	Cannonbeemon	DMX	16	48	16	
+DMX3	33	Monzaemon X	DMX	7	46	0	
+DMX3	34	Rize Greymon X	DMX	48	37	23	
+DMX3	35	Hisyaryumon	DMX	12	3	8	
+DMX3	36	Angewomon X	DMX	24	22	20	
+DMX3	37	Anomalocarimon X	DMX	56	10	12	
+DMX3	38	Grademon	DMX	32	56	8	
+DMX3	39	Mamemon X	DMX	55	4	19	
+DMX3	40	Crys Paledramon	DMX	2	22	11	
+DMX3	41	Jazarichmon	DMX	21	14	15	
+DMX3	42	Pumpmon	DMX	42	7	19	
+DMX3	43	Rapidmon X	DMX	23	16	2	
+DMX3	44	Justimon X	DMX	31	30	11	
+DMX3	45	Alphamon	DMX	5	13	8	
+DMX3	46	Hououmon X	DMX	37	17	22	
+DMX3	47	Tiger Vespamon	DMX	31	53	26	
+DMX3	48	Cherubimon X (Virtue)	DMX	57	7	18	
+DMX3	49	Goddramon X	DMX	4	0	10	
+DMX3	50	Ouryumon	DMX	54	12	9	
+DMX3	51	Ofanimon X	DMX	21	2	9	
+DMX3	52	Plesiomon X	DMX	36	43	25	
+DMX3	53	Gaioumon	DMX	31	53	26	
+DMX3	54	Dinotigermon	DMX	3	20	12	
+DMX3	55	Holydramon X	DMX	21	8	16	
+DMX3	56	Ebemon X	DMX	6	23	23	
+DMX3	57	Hexeblaumon	DMX	5	22	14	
+DMX3	58	Metallicdramon	DMX	33	32	2	
+DMX3	59	Noble Pumpmon	DMX	55	1	21	
+DMX3	60	Magnamon X	DMX	57	8	16	
+DMX3	61	Gankoomon X	DMX	4	34	10	
+DMX3	62	Dynasmon X	DMX	6	25	8	
+DMX3	63	Craniummon X (SU)	DMX	12	28	9	
+DMX3	64	Lord Knightmon X	DMX	5	12	9	
+DMX3	65	Dukemon X	DMX	32	21	9	
+DMX3	66	Ulforce V-dramon X (SU)	DMX	21	31	26	
+DMX3	67	Examon X	DMX	45	25	8	
+DMX3	68	Duftmon X	DMX	25	12	9	
+DMX3	69	Sleipmon X (SU)	DMX	34	19	20	
+DMX3	70	Jesmon X (SU)	DMX	12	36	7	
+DMX3	71	Omegamon X	DMX	39	8	26	
+DMX3	72	Alphamon: Ouryuken	DMX	39	13	8	
+DMX3	73	Diablomon X	DMX	43	41	17	
+DMX3	74	Jesmon GX	DMX	4	32	26	
+DMX3	75	Ogudomon X	DMX	32	0	9	
+PenZ w1	0	Botamon	DMX	1	1	0	Can't scan (baby)
+PenZ w1	1	Wanyamon	DMX	10	24	8	
+PenZ w1	2	Gaomon	DMX	4	30	10	
+PenZ w1	3	Morphomon	DMX	22	2	19	
+PenZ w1	4	Sunarizamon	DMX	10	8	2	
+PenZ w1	5	Plotmon	DMX	21	46	11	
+PenZ w1	6	Baboongamon	DMX	32	8	12	
+PenZ w1	7	Unimon	DMX	6	44	11	
+PenZ w1	8	Hudiemon	DMX	24	2	11	
+PenZ w1	9	Gaogamon	DMX	34	4	15	
+PenZ w1	10	Golemon	DMX	30	4	5	
+PenZ w1	11	Gokimon	DMX	27	15	27	
+PenZ w1	12	Tailmon	DMX	46	14	14	
+PenZ w1	13	Gogmamon	DMX	45	24	21	
+PenZ w1	14	Jewelbeemon	DMX	33	36	26	
+PenZ w1	15	Scorpiomon	DMX	49	51	8	
+PenZ w1	16	Mach Gaogamon	DMX	4	34	10	
+PenZ w1	17	Orochimon	DMX	1	39	0	
+PenZ w1	18	Archnemon	DMX	36	27	1	
+PenZ w1	19	Angewomon	DMX	19	22	20	
+PenZ w1	20	Ancient Beatmon	DMX	57	19	18	
+PenZ w1	21	Holydramon	DMX	8	22	3	
+PenZ w1	22	Baihumon	DMX	14	2	1	
+PenZ w1	23	Mirage Gaogamon	DMX	21	32	9	
+PenZ w1	24	Nidhoggmon	DMX	30	8	16	
+PenZ w1	25	Ancient Volcamon	DMX	17	13	22	
+PenZ w1	26	Ofanimon	DMX	2	5	9	
+PenZ w1	27	Tsubumon	DMX	1	1	0	Can't scan (baby)
+PenZ w1	28	Upamon	DMX	8	1	8	
+PenZ w1	29	Swimmon	DMX	24	14	0	
+PenZ w1	30	Sangomon	DMX	47	14	11	
+PenZ w1	31	Gizamon	DMX	57	32	18	
+PenZ w1	32	Armadimon	DMX	20	24	15	
+PenZ w1	33	Tobiumon	DMX	10	2	7	
+PenZ w1	34	Yukidarumon	DMX	22	4	0	
+PenZ w1	35	Shellmon	DMX	5	18	25	
+PenZ w1	36	Submarimon	DMX	5	6	26	
+PenZ w1	37	Hookmon	DMX	48	54	23	
+PenZ w1	38	Karatuki Numemon	DMX	15	25	27	
+PenZ w1	39	Ankylomon	DMX	13	24	21	
+PenZ w1	40	Marine Chimairamon	DMX	52	47	6	
+PenZ w1	41	Gusokumon	DMX	53	18	25	
+PenZ w1	42	Sirenmon	DMX	22	14	19	
+PenZ w1	43	Mermaimon	DMX	39	12	8	
+PenZ w1	44	Waru Seadramon	DMX	18	57	5	
+PenZ w1	45	Piranimon	DMX	54	9	1	
+PenZ w1	46	Aegisdramon	DMX	16	18	23	
+PenZ w1	47	Marine Angemon	DMX	7	1	0	
+PenZ w1	48	Ancient Mermaimon	DMX	24	34	14	
+PenZ w1	49	Ancient Megatheriumon	DMX	22	30	9	
+PenZ w1	50	Regalecusmon	DMX	39	22	9	
+PenZ w1	51	Leviamon	DMX	3	10	1	
+PenZ w1	52	Algomon (Baby I)	DMX	1	1	0	Can't scan (baby)
+PenZ w1	53	Algomon (Baby II)	DMX	1	1	0	
+PenZ w1	54	Ghostmon	DMX	17	27	22	
+PenZ w1	55	Labramon	DMX	2	7	11	
+PenZ w1	56	Algomon (Child)	DMX	13	51	13	
+PenZ w1	57	Wormmon	DMX	36	9	14	
+PenZ w1	58	Witchmon	DMX	34	21	11	
+PenZ w1	59	Dobermon	DMX	21	3	5	
+PenZ w1	60	Algomon (Adult)	DMX	36	19	18	
+PenZ w1	61	Devimon	DMX	3	12	17	
+PenZ w1	62	Flare Lizamon	DMX	17	8	3	
+PenZ w1	63	Mojyamon	DMX	11	22	14	
+PenZ w1	64	Stingmon	DMX	5	12	2	
+PenZ w1	65	Chimairamon	DMX	17	0	3	
+PenZ w1	66	Cerberumon	DMX	8	17	3	
+PenZ w1	67	Algomon (Perfect)	DMX	30	29	13	
+PenZ w1	68	Neo Devimon	DMX	41	13	17	
+PenZ w1	69	Ex-Tyrannomon	DMX	13	7	19	
+PenZ w1	70	Mummymon	DMX	48	41	17	
+PenZ w1	71	Deathmon	DMX	33	13	5	
+PenZ w1	72	Anubimon	DMX	2	27	19	
+PenZ w1	73	Algomon (Ultimate)	DMX	30	24	16	
+PenZ w1	74	Done Devimon	DMX	36	41	17	
+PenZ w1	75	Ancient Sphinxmon	DMX	27	8	16	
+PenZ w1	76	Megidramon	DMX	17	21	2	
+PenZ w1	77	Apocalymon	DMX	13	56	5	
+PenZ w1	78	Armagemon	DMX	22	27	19	
+PenZ w1	79	Huanglongmon	DMX	13	1	11	
+PenZ w1	80	Susanoomon	DMX	19	32	26	
+PenZ w1	81	Omegamon	DMX	32	8	26	
+PenZ w1	82	Imperialdramon: Paladin Mode	DMX	12	32	26	
+PenZ w1	83	Shakkoumon	DMX	30	21	16	
+PenZ w1	84	Slash Angemon	DMX	31	12	7	
+PenZ w1	85	Silphymon	DMX	8	12	23	
+PenZ w1	86	Valkyrimon	DMX	26	33	20	
+PenZ w1	87	Paildramon	DMX	37	5	16	
+PenZ w1	88	Imperialdramon: Fighter Mode (U)	DMX	13	21	2	
+PenZ w1	89	Dinobeemon	DMX	32	20	12	
+PenZ w1	90	Gran Kuwagamon	DMX	49	3	1	
+PenZ w1	91	Agumon	DMX	0	3	3	
+PenZ w1	92	Agnimon	DMX	4	17	10	
+PenZ w1	93	Greymon	DMX	6	44	3	
+PenZ w1	94	Vritramon	DMX	30	37	2	
+PenZ w1	95	Metal Greymon	DMX	16	20	23	
+PenZ w1	96	Aldamon	DMX	30	0	15	
+PenZ w1	97	War Greymon	DMX	25	20	3	
+PenZ w1	98	Kaiser Greymon	DMX	31	5	20	
+PenZ w1	99	Agumon -Yuki no Kizuna-	DMX	56	8	8	
+PenZ w2	0	Pururumon	DMX	1	1	0	Can't scan (baby)
+PenZ w2	1	Poromon	DMX	34	1	24	
+PenZ w2	2	Falcomon	DMX	36	53	24	
+PenZ w2	3	Pomumon	DMX	13	9	6	
+PenZ w2	4	Tinkermon	DMX	44	22	7	
+PenZ w2	5	Hawkmon	DMX	5	32	9	
+PenZ w2	6	Peckmon	DMX	53	3	6	
+PenZ w2	7	Diatrymon	DMX	24	14	11	
+PenZ w2	8	Petermon	DMX	31	22	8	
+PenZ w2	9	Cockatrimon	DMX	17	8	22	
+PenZ w2	10	Parasaurmon	DMX	14	27	5	
+PenZ w2	11	Veggiemon	DMX	15	27	27	
+PenZ w2	12	Aquilamon	DMX	14	24	16	
+PenZ w2	13	Yatagaramon	DMX	13	41	5	
+PenZ w2	14	Parrotmon	DMX	57	34	18	
+PenZ w2	15	Hippogriffomon	DMX	8	34	2	
+PenZ w2	16	Lilamon	DMX	22	24	24	
+PenZ w2	17	Toropiamon	DMX	22	27	5	
+PenZ w2	18	Entmon	DMX	44	27	26	
+PenZ w2	19	Ravmon	DMX	32	45	18	
+PenZ w2	20	Ancient Irismon	DMX	34	21	15	
+PenZ w2	21	Xuanwumon	DMX	27	5	13	
+PenZ w2	22	Ancient Troiamon	DMX	48	6	23	
+PenZ w2	23	Ornismon	DMX	24	8	16	
+PenZ w2	24	Zhuqiaomon	DMX	17	0	3	
+PenZ w2	25	Ketomon	DMX	1	1	0	Can't scan (baby)
+PenZ w2	26	Hopmon	DMX	24	21	14	
+PenZ w2	27	Monodramon	DMX	20	9	12	
+PenZ w2	28	Jazamon	DMX	52	39	8	
+PenZ w2	29	Junkmon	DMX	6	20	3	
+PenZ w2	30	V-mon	DMX	24	4	11	
+PenZ w2	31	Strikedramon	DMX	20	17	21	
+PenZ w2	32	Machmon	DMX	6	52	2	
+PenZ w2	33	Eosmon (Adult)	DMX	2	36	14	Not scanned
+PenZ w2	34	Komondomon	DMX	21	24	11	
+PenZ w2	35	Minotaurmon	DMX	24	33	11	
+PenZ w2	36	Raremon	DMX	27	41	27	
+PenZ w2	37	XV-mon	DMX	21	4	9	
+PenZ w2	38	Cyberdramon	DMX	20	21	12	
+PenZ w2	39	Loader Leomon	DMX	13	34	19	
+PenZ w2	40	Eosmon (Perfect)	DMX	33	36	9	
+PenZ w2	41	Locomon	DMX	30	55	15	
+PenZ w2	42	Metal Tyrannomon	DMX	9	21	18	
+PenZ w2	43	Rebellimon	DMX	32	6	7	
+PenZ w2	44	Justimon	DMX	24	4	10	
+PenZ w2	45	Heavy Leomon	DMX	33	16	2	
+PenZ w2	46	Eosmon (Ultimate)	DMX	33	36	9	
+PenZ w2	47	Grand Locomon	DMX	36	30	11	
+PenZ w2	48	Ancient Wisemon	DMX	10	2	22	
+PenZ w2	49	Gundramon	DMX	6	16	23	
+PenZ w2	50	Poyomon	DMX	1	1	0	Can't scan (baby)
+PenZ w2	51	Tokomon	DMX	10	33	1	
+PenZ w2	52	Agumon (Savers)	DMX	0	20	3	
+PenZ w2	53	Shoutmon	DMX	8	33	3	
+PenZ w2	54	Guilmon	DMX	8	3	3	
+PenZ w2	55	Patamon	DMX	1	2	14	
+PenZ w2	56	Geo Greymon	DMX	8	51	3	
+PenZ w2	57	Darcmon	DMX	32	5	9	
+PenZ w2	58	Shoutmon X3	DMX	24	4	10	
+PenZ w2	59	Baluchimon	DMX	10	34	5	
+PenZ w2	60	Mimicmon	DMX	6	27	19	
+PenZ w2	61	Growmon	DMX	17	20	15	
+PenZ w2	62	Angemon	DMX	4	12	10	
+PenZ w2	63	Rize Greymon	DMX	6	16	23	
+PenZ w2	64	Duramon	DMX	32	21	26	
+PenZ w2	65	Raiji Ludomon	DMX	19	3	18	
+PenZ w2	66	Shoutmon X5	DMX	31	48	26	
+PenZ w2	67	Manticoremon	DMX	27	21	0	
+PenZ w2	68	Megalo Growmon	DMX	6	3	16	
+PenZ w2	69	Holy Angemon	DMX	31	2	26	
+PenZ w2	70	Shine Greymon	DMX	31	56	26	
+PenZ w2	71	Ancient Greymon	DMX	37	34	3	
+PenZ w2	72	Goddramon	DMX	4	17	10	
+PenZ w2	73	Ancient Garurumon	DMX	32	2	8	
+PenZ w2	74	Qinglongmon	DMX	57	19	18	
+PenZ w2	75	Dukemon	DMX	33	21	16	
+PenZ w2	76	Seraphimon	DMX	8	25	2	
+PenZ w2	77	Lucemon: Satan Mode	DMX	8	24	21	
+PenZ w2	78	Armagemon	DMX	22	27	19	
+PenZ w2	79	Huanglongmon	DMX	13	1	11	
+PenZ w2	80	Susanoomon	DMX	19	32	26	
+PenZ w2	81	Omegamon	DMX	32	8	26	
+PenZ w2	82	Imperialdramon: Paladin Mode	DMX	12	32	26	
+PenZ w2	83	Shakkoumon	DMX	30	21	16	
+PenZ w2	84	Slash Angemon	DMX	31	12	7	
+PenZ w2	85	Silphymon	DMX	8	12	23	
+PenZ w2	86	Valkyrimon	DMX	26	33	20	
+PenZ w2	87	Paildramon	DMX	37	5	16	
+PenZ w2	88	Imperialdramon: Fighter Mode (U)	DMX	13	21	2	
+PenZ w2	89	Dinobeemon	DMX	32	20	12	
+PenZ w2	90	Gran Kuwagamon	DMX	49	3	1	
+PenZ w2	91	Gabumon	DMX	0	44	3	
+PenZ w2	92	Wolfmon	DMX	32	12	7	
+PenZ w2	93	Garurumon	DMX	6	5	11	
+PenZ w2	94	Garummon	DMX	24	14	16	
+PenZ w2	95	Were Garurumon	DMX	3	33	12	
+PenZ w2	96	Beowolfmon	DMX	32	16	8	
+PenZ w2	97	Metal Garurumon	DMX	22	16	11	
+PenZ w2	98	Magna Garurumon	DMX	16	33	23	
+PenZ w2	99	Gabumon -Yujo no Kizuna-	DMX	5	48	6	
+Pen 1.x	1	Bubbmon	PenOG	128	.	.	Can't scan (baby)
+Pen 1.x	2	Mochimon	PenOG	129	.	.	Can't scan (baby)
+Pen 1.x	3	Tentomon	PenOG	130	.	.	
+Pen 1.x	4	Gotsumon	PenOG	131	.	.	
+Pen 1.x	5	Otamamon	PenOG	132	.	.	
+Pen 1.x	6	Kabuterimon	PenOG	225	.	.	
+Pen 1.0	7	Tortomon	PenOG	134	.	.	
+Pen 1.5	7	Tailmon	PenOG	179	.	.	
+Pen 1.x	8	Monochromon	PenOG	225	.	.	
+Pen 1.x	9	Starmon	PenOG	136	.	.	
+Pen 1.x	10	Kuwagamon	PenOG	226	.	.	
+Pen 1.x	11	Gekomon	PenOG	135	.	.	
+Pen 1.x	12	Atlur Kabuterimon (Blue)	PenOG	143	.	.	
+Pen 1.0	13	Jyagamon	PenOG	140	.	.	
+Pen 1.5	13	Angewomon	PenOG	178	.	.	
+Pen 1.x	14	Triceramon	PenOG	139	.	.	
+Pen 1.x	15	Piccolomon	PenOG	230	.	.	
+Pen 1.x	16	Okuwamon	PenOG	133	.	.	
+Pen 1.x	17	Tonosama Gekomon	PenOG	141	.	.	
+Pen 1.0	18	Herakle Kabuterimon	PenOG	137	.	.	
+Pen 1.5	18	Holydramon	PenOG	156	.	.	
+Pen 1.x	19	Saber Leomon	PenOG	144	.	.	
+Pen 1.x	20	Metal Etemon	PenOG	145	.	.	
+Pen 2.x	1	Pitchmon	PenOG	146	.	.	Can't scan (baby)
+Pen 2.x	2	Pukamon	PenOG	129	.	.	Can't scan (baby)
+Pen 2.x	3	Gomamon	PenOG	148	.	.	
+Pen 2.x	4	Ganimon	PenOG	150	.	.	
+Pen 2.x	5	Shakomon	PenOG	147	.	.	
+Pen 2.x	6	Ikkakumon	PenOG	151	.	.	
+Pen 2.x	7	Rukamon	PenOG	234	.	.	
+Pen 2.x	8	Seadramon	PenOG	227	.	.	
+Pen 2.0	9	Coelamon	PenOG	227	.	.	
+Pen 2.5	9	Ebidramon	PenOG	154	.	.	
+Pen 2.x	10	Gesomon	PenOG	149	.	.	
+Pen 2.x	11	Octmon	PenOG	153	.	.	
+Pen 2.x	12	Zudomon	PenOG	156	.	.	
+Pen 2.x	13	Whamon (Perfect)	PenOG	232	.	.	
+Pen 2.x	14	Mega Seadramon	PenOG	160	.	.	
+Pen 2.0	15	Anomalocarimon	PenOG	154	.	.	
+Pen 2.5	15	Hangyomon	PenOG	161	.	.	
+Pen 2.x	16	Marine Devimon	PenOG	158	.	.	
+Pen 2.x	17	Dagomon	PenOG	161	.	.	
+Pen 2.x	18	Marine Angemon	PenOG	231	.	.	
+Pen 2.0	19	Metal Seadramon	PenOG	137	.	.	
+Pen 2.5	19	Plesiomon	PenOG	137	.	.	
+Pen 2.x	20	Pukumon	PenOG	168	.	.	
+Pen 3.x	1	Mokumon	PenOG	163	.	.	Can't scan (baby)
+Pen 3.x	2	Peti Meramon	PenOG	164	.	.	Can't scan (baby)
+Pen 3.x	3	Bakumon	PenOG	166	.	.	
+Pen 3.x	4	Candmon	PenOG	167	.	.	
+Pen 3.x	5	Pico Devimon	PenOG	170	.	.	
+Pen 3.x	6	Hanumon	PenOG	168	.	.	
+Pen 3.x	7	Garurumon (SP)	PenOG	225	.	.	
+Pen 3.x	8	Meramon	PenOG	226	.	.	
+Pen 3.x	9	Wizarmon	PenOG	178	.	.	
+Pen 3.x	10	Devimon	PenOG	226	.	.	Guidebooks incorrectly said 144
+Pen 3.0	11	Bakemon	PenOG	169	.	.	
+Pen 3.5	11	Dokugumon	PenOG	162	.	.	
+Pen 3.x	12	Mammon	PenOG	151	.	.	Not scanned
+Pen 3.x	13	Were Garurumon	PenOG	144	.	.	
+Pen 3.x	14	Death Meramon	PenOG	173	.	.	
+Pen 3.x	15	Pumpmon	PenOG	172	.	.	
+Pen 3.0	16	Vamdemon	PenOG	177	.	.	Not scanned
+Pen 3.5	16	Lady Devimon	PenOG	177	.	.	Not scanned
+Pen 3.x	17	Fantomon	PenOG	171	.	.	
+Pen 3.x	18	Skull Mammon	PenOG	235	.	.	Not scanned, could be 251
+Pen 3.x	19	Boltmon	PenOG	181	.	.	
+Pen 3.0	20	Piemon	PenOG	180	.	.	
+Pen 3.5	20	Demon	PenOG	156	.	.	
+Pen 4.x	1	Nyokimon	PenOG	182	.	.	Can't scan (baby)
+Pen 4.x	2	Pyocomon	PenOG	183	.	.	Can't scan (baby)
+Pen 4.x	3	Piyomon	PenOG	223	.	.	
+Pen 4.0	4	Floramon	PenOG	132	.	.	
+Pen 4.5	4	Palmon	PenOG	224	.	.	
+Pen 4.x	5	Mushmon	PenOG	196	.	.	
+Pen 4.x	6	V-dramon	PenOG	197	.	.	
+Pen 4.x	7	Birdramon	PenOG	186	.	.	
+Pen 4.x	8	Togemon	PenOG	189	.	.	
+Pen 4.x	9	Kiwimon	PenOG	191	.	.	
+Pen 4.x	10	Woodmon	PenOG	188	.	.	
+Pen 4.x	11	Red Veggiemon	PenOG	166	.	.	
+Pen 4.x	12	Aero V-dramon	PenOG	209	.	.	
+Pen 4.x	13	Garudamon	PenOG	192	.	.	
+Pen 4.0	14	Blossomon	PenOG	185	.	.	
+Pen 4.5	14	Lilimon	PenOG	137	.	.	
+Pen 4.x	15	Delumon	PenOG	176	.	.	
+Pen 4.x	16	Jyureimon	PenOG	199	.	.	
+Pen 4.x	17	Gerbemon	PenOG	228	.	.	
+Pen 4.x	18	Hououmon	PenOG	195	.	.	
+Pen 4.0	19	Griffomon	PenOG	215	.	.	
+Pen 4.5	19	Rosemon	PenOG	160	.	.	
+Pen 4.x	20	Pinochimon	PenOG	198	.	.	
+Pen 5.x	1	Choromon	PenOG	195	.	.	Can't scan (baby)
+Pen 5.x	2	Caprimon	PenOG	234	.	.	Can't scan (baby), could be 250
+Pen 5.x	3	Toy Agumon	PenOG	223	.	.	
+Pen 5.x	4	Kokuwamon	PenOG	154	.	.	
+Pen 5.x	5	Hagurumon	PenOG	204	.	.	
+Pen 5.x	6	Greymon (SP)	PenOG	225	.	.	
+Pen 5.x	7	Revolmon	PenOG	202	.	.	
+Pen 5.0	8	Tankmon	PenOG	233	.	.	
+Pen 5.5	8	Thunderballmon	PenOG	178	.	.	
+Pen 5.x	9	Clockmon	PenOG	210	.	.	
+Pen 5.x	10	Guardromon	PenOG	214	.	.	
+Pen 5.x	11	Mechanorimon	PenOG	215	.	.	
+Pen 5.x	12	Metal Greymon	PenOG	229	.	.	
+Pen 5.0	13	Andromon	PenOG	236	.	.	
+Pen 5.5	13	Cyberdramon	PenOG	144	.	.	
+Pen 5.x	14	Knightmon	PenOG	212	.	.	
+Pen 5.x	15	Big Mamemon	PenOG	220	.	.	
+Pen 5.x	16	Megadramon	PenOG	221	.	.	
+Pen 5.x	17	Waru Monzaemon	PenOG	217	.	.	
+Pen 5.x	18	War Greymon	PenOG	193	.	.	
+Pen 5.x	19	Metal Garurumon	PenOG	156	.	.	
+Pen 5.0	20	Mugendramon	PenOG	137	.	.	
+Pen 5.5	20	Venom Vamdemon	PenOG	174	.	.	
+Pen Zero	1	Yukimi Botamon	PenOG	174	.	.	Can't scan (baby)
+Pen Zero	2	Nyaromon	PenOG	168	.	.	Can't scan (baby)
+Pen Zero	3	Agumon (SP)	PenOG	223	.	.	
+Pen Zero	4	Gabumon (SP)	PenOG	223	.	.	
+Pen Zero	5	Plotmon	PenOG	215	.	.	
+Pen Zero	6	Greymon (SP)	PenOG	225	.	.	
+Pen Zero	7	Leomon	PenOG	226	.	.	
+Pen Zero	8	Garurumon (SP)	PenOG	225	.	.	
+Pen Zero	9	Igamon	PenOG	159	.	.	
+Pen Zero	10	Angemon	PenOG	226	.	.	
+Pen Zero	11	Tailmon	PenOG	179	.	.	
+Pen Zero	12	Metal Greymon	PenOG	229	.	.	
+Pen Zero	13	Asuramon	PenOG	226	.	.	
+Pen Zero	14	Were Garurumon	PenOG	144	.	.	
+Pen Zero	15	Metal Mamemon	PenOG	208	.	.	
+Pen Zero	16	Holy Angemon	PenOG	147	.	.	
+Pen Zero	17	Angewomon	PenOG	178	.	.	
+Pen Zero	18	War Greymon	PenOG	193	.	.	
+Pen Zero	19	Metal Garurumon	PenOG	156	.	.	
+Pen Zero	20	Omegamon	PenOG	203	.	.	
+Pen20	1	Bubbmon	DMC	55	55	.	Can't scan (baby)
+Pen20	2	Mochimon	DMC	56	56	.	Can't scan (baby)
+Pen20	3	Tentomon	DMC	57	26	.	
+Pen20	4	Gottsumon	DMC	58	6	.	
+Pen20	5	Otamamon	DMC	37	48	.	
+Pen20	6	Kabuterimon	DMC	3	25	.	
+Pen20	7	Tortamon	DMC	25	24	.	
+Pen20	8	Monochromon	DMC	3	32	.	
+Pen20	9	Starmon	DMC	22	14	.	
+Pen20	10	Gekomon	DMC	60	14	.	
+Pen20	11	Kuwagamon	DMC	6	69	.	
+Pen20	12	Tailmon	DMC	51	14	.	
+Pen20	13	Atlur Kabuterimon	DMC	65	3	.	
+Pen20	14	Jyagamon	DMC	63	5	.	
+Pen20	15	Triceramon	DMC	62	24	.	
+Pen20	16	Piccolomon	DMC	7	22	.	
+Pen20	17	Tonosama Gekomon	DMC	29	14	.	
+Pen20	18	Okuwamon	DMC	59	106	.	
+Pen20	19	Angewomon	DMC	81	22	.	
+Pen20	20	Herakle Kabuterimon	DMC	30	65	.	
+Pen20	21	Saber Leomon	DMC	26	48	.	
+Pen20	22	Holydramon	DMC	16	22	.	
+Pen20	23	Metal Etemon	DMC	43	6	.	
+Pen20	24	Pitchmon	DMC	55	55	.	Can't scan (baby)
+Pen20	25	Pukamon	DMC	56	56	.	Can't scan (baby)
+Pen20	26	Gomamon	DMC	44	26	.	
+Pen20	27	Ganimon	DMC	67	97	.	
+Pen20	28	Shakomon	DMC	41	21	.	
+Pen20	29	Rukamon	DMC	14	48	.	
+Pen20	30	Ikkakumon	DMC	98	26	.	
+Pen20	31	Seadramon	DMC	5	14	.	
+Pen20	32	Coelamon	DMC	5	48	.	
+Pen20	33	Octmon	DMC	18	82	.	
+Pen20	34	Gesomon	DMC	45	86	.	
+Pen20	35	Ebidramon	DMC	69	48	.	
+Pen20	36	Whamon	DMC	9	5	.	
+Pen20	37	Zudomon	DMC	16	62	.	
+Pen20	38	Mega Seadramon	DMC	73	9	.	
+Pen20	39	Anomalocarimon	DMC	23	61	.	
+Pen20	40	Dagomon	DMC	46	53	.	
+Pen20	41	Marin Devimon	DMC	72	73	.	
+Pen20	42	Hangyomon	DMC	46	9	.	
+Pen20	43	Marin Angemon	DMC	8	114	.	
+Pen20	44	Metal Seadramon	DMC	30	73	.	
+Pen20	45	Pukumon	DMC	48	6	.	
+Pen20	46	Plesiomon	DMC	21	14	.	
+Pen20	47	Mokumon	DMC	99	99	.	Can't scan (baby)
+Pen20	48	Peti Meramon	DMC	54	54	.	Can't scan (baby)
+Pen20	49	Bakumon	DMC	47	22	.	
+Pen20	50	Candmon	DMC	17	54	.	
+Pen20	51	Pico Devimon	DMC	76	12	.	
+Pen20	52	Hanumon	DMC	48	11	.	
+Pen20	53	Garurumon	DMC	3	5	.	
+Pen20	54	Meramon	DMC	6	17	.	
+Pen20	55	Wizarmon	DMC	81	22	.	
+Pen20	56	Devimon	DMC	26	12	.	
+Pen20	57	Bakemon	DMC	27	6	.	
+Pen20	58	Dokugumon	DMC	74	27	.	
+Pen20	59	Mammon	DMC	98	36	.	
+Pen20	60	Were Garurumon	DMC	26	33	.	
+Pen20	61	Death Meramon	DMC	78	17	.	
+Pen20	62	Pumpmon	DMC	77	110	.	
+Pen20	63	Vamdemon	DMC	50	73	.	
+Pen20	64	Fantomon	DMC	49	27	.	
+Pen20	65	Lady Devimon	DMC	50	112	.	
+Pen20	66	Skull Mammon	DMC	11	62	.	
+Pen20	67	Boltmon	DMC	28	24	.	
+Pen20	68	Demon	DMC	16	53	.	
+Pen20	69	Piemon	DMC	82	29	.	
+Pen20	70	Nyokimon	DMC	83	83	.	Can't scan (baby)
+Pen20	71	Pyocomon	DMC	84	84	.	Can't scan (baby)
+Pen20	72	Piyomon	DMC	1	5	.	
+Pen20	73	Floramon	DMC	37	84	.	
+Pen20	74	Mushmon	DMC	92	110	.	
+Pen20	75	Palmon	DMC	4	42	.	
+Pen20	76	V-dramon	DMC	93	26	.	
+Pen20	77	Birdramon	DMC	52	17	.	
+Pen20	78	Togemon	DMC	87	6	.	
+Pen20	79	Kiwimon	DMC	89	5	.	
+Pen20	80	Woodmon	DMC	53	48	.	
+Pen20	81	Red Vegimon	DMC	47	86	.	
+Pen20	82	Aero V-dramon	DMC	106	38	.	
+Pen20	83	Garudamon	DMC	38	26	.	
+Pen20	84	Blossomon	DMC	42	73	.	
+Pen20	85	Delumon	DMC	80	29	.	
+Pen20	86	Jyureimon	DMC	95	99	.	
+Pen20	87	Gerbemon	DMC	15	58	.	
+Pen20	88	Lilimon	DMC	30	8	.	
+Pen20	89	Hououmon	DMC	91	16	.	
+Pen20	90	Griffomon	DMC	21	48	.	
+Pen20	91	Pinochimon	DMC	94	29	.	
+Pen20	92	Rosemon	DMC	73	74	.	
+Pen20	93	Choromon	DMC	91	91	.	Can't scan (baby)
+Pen20	94	Caprimon	DMC	14	14	.	Can't scan (baby)
+Pen20	95	Toy Agumon	DMC	1	6	.	
+Pen20	96	Kokuwamon	DMC	69	4	.	
+Pen20	97	Hagurumon	DMC	101	57	.	
+Pen20	98	Greymon	DMC	3	25	.	
+Pen20	99	Revolmon	DMC	100	87	.	
+Pen20	100	Tankmon	DMC	10	87	.	
+Pen20	101	Clockmon	DMC	107	94	.	
+Pen20	102	Guardromon	DMC	39	21	.	
+Pen20	103	Mechanorimon	DMC	21	26	.	
+Pen20	104	Thunderballmon	DMC	81	7	.	
+Pen20	105	Metal Greymon	DMC	2	26	.	
+Pen20	106	Andromon	DMC	12	2	.	
+Pen20	107	Knightmon	DMC	109	32	.	
+Pen20	108	Big Mamemon	DMC	115	6	.	
+Pen20	109	Megadramon	DMC	116	12	.	
+Pen20	110	Waru Monzaemon	DMC	112	26	.	
+Pen20	111	Cyberdramon	DMC	26	48	.	
+Pen20	112	War Greymon	DMC	34	26	.	
+Pen20	113	Metal Garurumon	DMC	16	25	.	
+Pen20	114	Mugendramon	DMC	30	25	.	
+Pen20	115	Venom Vamdemon	DMC	36	16	.	
+Pen20	116	Yukimi Botamon	DMC	36	54	.	Can't scan (baby)
+Pen20	117	Nyaromon	DMC	48	47	.	Can't scan (baby)
+Pen20	118	Agumon	DMC	1	26	.	
+Pen20	119	Gabumon	DMC	1	25	.	
+Pen20	120	Plotmon	DMC	21	51	.	
+Pen20	121	Leomon	DMC	6	11	.	
+Pen20	122	Igamon	DMC	35	71	.	
+Pen20	123	Angemon	DMC	6	22	.	
+Pen20	124	Asuramon	DMC	6	54	.	
+Pen20	125	Metal Mamemon	DMC	105	26	.	
+Pen20	126	Holy Angemon	DMC	41	109	.	
+Pen20	127	Seraphimon	DMC	30	22	.	
+Pen20	128	Ofanimon	DMC	91	5	.	
+Pen20	129	Phascomon	DMC	37	53	.	
+Pen20	130	Impmon	DMC	17	91	.	
+Pen20	131	Porcupamon	DMC	61	26	.	
+Pen20	132	Mad Leomon	DMC	24	20	.	
+Pen20	133	Shadramon	DMC	17	21	.	
+Pen20	134	Troopmon	DMC	36	27	.	
+Pen20	135	Astamon	DMC	100	33	.	
+Pen20	136	Baalmon	DMC	81	87	.	
+Pen20	137	Dark Knightmon	DMC	31	109	.	
+Pen20	138	Belphemon: Rage Mode	DMC	3	17	.	
+Pen20	139	Beelzebumon	DMC	10	48	.	
+Pen20	140	Botamon	DMC	0	0	.	Can't scan (baby)
+Pen20	141	Koromon	DMC	0	0	.	Can't scan (baby)
+Pen20	142	Guilmon	DMC	17	26	.	
+Pen20	143	Bushi Agumon	DMC	71	1	.	
+Pen20	144	Growmon	DMC	3	32	.	
+Pen20	145	Reppamon	DMC	20	26	.	
+Pen20	146	Arresterdramon	DMC	32	5	.	
+Pen20	147	Manbomon	DMC	45	6	.	
+Pen20	148	Megalo Growmon	DMC	30	61	.	
+Pen20	149	Beowolfmon	DMC	32	78	.	
+Pen20	150	Rize Greymon	DMC	103	106	.	
+Pen20	151	Dukemon	DMC	14	5	.	
+Pen20	152	Duftmon	DMC	41	12	.	
+Pen20	153	Sakumon	DMC	25	25	.	Can't scan (baby)
+Pen20	154	Sakuttomon	DMC	25	25	.	Can't scan (baby)
+Pen20	155	Zubamon	DMC	32	25	.	
+Pen20	156	Hackmon	DMC	32	1	.	
+Pen20	157	Zubaeagermon	DMC	12	32	.	
+Pen20	158	Bao Hackmon	DMC	26	12	.	
+Pen20	159	Targetmon	DMC	81	24	.	
+Pen20	160	Duramon	DMC	12	14	.	
+Pen20	161	Savior Hackmon	DMC	5	16	.	
+Pen20	162	Etemon	DMC	13	8	.	
+Pen20	163	Durandamon	DMC	31	32	.	
+Pen20	164	Jesmon	DMC	12	36	.	
+Pen20	165	Jesmon X	DMC	71	36	.	
+Pen20	166	Bancho Leomon	DMC	6	71	.	
+Pen20	167	Petitmon	DMC	17	17	.	Can't scan (baby)
+Pen20	168	Babydmon	DMC	18	18	.	Can't scan (baby)
+Pen20	169	Dracomon	DMC	18	32	.	
+Pen20	170	Agumon Hakase	DMC	22	1	.	
+Pen20	171	Coredramon (Blue)	DMC	16	21	.	
+Pen20	172	Coredramon (Green)	DMC	16	21	.	
+Pen20	173	Devidramon	DMC	6	5	.	
+Pen20	174	Wingdramon	DMC	24	32	.	
+Pen20	175	Groundramon	DMC	6	13	.	
+Pen20	176	Slayerdramon	DMC	20	32	.	
+Pen20	177	Breakdramon	DMC	20	5	.	
+Pen20	178	Darkdramon	DMC	105	5	.	
+Pen20	179	Zerimon	DMC	55	55	.	Can't scan (baby)
+Pen20	180	Gummymon	DMC	37	37	.	Can't scan (baby)
+Pen20	181	Terriermon	DMC	54	47	.	
+Pen20	182	Galgomon	DMC	87	6	.	
+Pen20	183	Rapidmon	DMC	106	2	.	
+Pen20	184	Saint Galgomon	DMC	116	87	.	
+Pen20	185	Cocomon	DMC	55	55	.	Can't scan (baby)
+Pen20	186	Chocomon	DMC	37	37	.	Can't scan (baby)
+Pen20	187	Lopmon	DMC	66	47	.	
+Pen20	188	Turuiemon	DMC	26	6	.	
+Pen20	189	Andiramon	DMC	12	6	.	
+Pen20	190	Cherubimon	DMC	81	5	.	
+Pen20	191	Cotsucomon	DMC	58	58	.	Can't scan (baby)
+Pen20	192	Kakkinmon	DMC	58	58	.	Can't scan (baby)
+Pen20	193	Ludomon	DMC	104	20	.	
+Pen20	194	Tia Ludomon	DMC	36	41	.	
+Pen20	195	Raiji Ludomon	DMC	81	4	.	
+Pen20	196	Bryweludramon	DMC	40	16	.	
+Pen20	197	Vorvomon	DMC	1	5	.	
+Pen20	198	Lavorvomon	DMC	3	26	.	
+Pen20	199	Lavogaritamon	DMC	34	78	.	
+Pen20	200	Volcanicdramon	DMC	16	38	.	
+Pen20	201	Chicomon	DMC	55	55	.	Can't scan (baby)
+Pen20	202	Chibimon	DMC	6	6	.	Can't scan (baby)
+Pen20	203	V-mon	DMC	24	6	.	
+Pen20	204	XV-mon	DMC	93	26	.	
+Pen20	205	Ulforce V-dramon	DMC	106	31	.	
+Pen20	206	Meicoomon	DMC	13	26	.	
+Pen20	207	Meicrackmon: Vicious Mode	DMC	51	26	.	
+Pen20	208	Raguelmon	DMC	104	48	.	
+Pen20	209	Fufumon	DMC	5	5	.	Can't scan (baby)
+Pen20	210	Kyokyomon	DMC	85	85	.	Can't scan (baby)
+Pen20	211	Ryudamon	DMC	109	24	.	
+Pen20	212	Ginryumon	DMC	31	24	.	
+Pen20	213	Hisyaryumon	DMC	12	26	.	
+Pen20	214	Ouryumon	DMC	108	12	.	
+Pen20	215	Budmon	DMC	85	85	.	Can't scan (baby)
+Pen20	216	Lalamon	DMC	80	60	.	
+Pen20	217	Sunflowmon	DMC	22	6	.	
+Pen20	218	Lilamon	DMC	91	8	.	
+Pen20	219	Lotusmon	DMC	8	41	.	
+Pen20	220	Dodomon	DMC	13	5	.	Can't scan (baby)
+Pen20	221	Dorimon	DMC	13	24	.	Can't scan (baby)
+Pen20	222	DORUmon	DMC	39	13	.	
+Pen20	223	DORUgamon	DMC	41	13	.	
+Pen20	224	DORUguremon	DMC	32	13	.	
+Pen20	225	DORUgoramon	DMC	38	24	.	
+Pen20	226	Alphamon	DMC	5	13	.	
+Pen20	227	Omegamon	DMC	32	16	.	
+Pen20	228	Ogudomon	DMC	36	14	.	
+Pen20	229	Ordinemon	DMC	13	53	.	
+Pen20	230	Paildramon	DMC	54	5	.	
+Pen20	231	Imperialdramon: Fighter Mode	DMC	105	21	.	
+Pen20	232	Voltobautamon	DMC	79	100	.	
+Pen20	233	Beelzebumon: Blast Mode	DMC	16	36	.	
+Pen20	234	Ragna Lordmon	DMC	102	106	.	
+Pen20	235	Alphamon: Ouryuken	DMC	102	13	.	
+Pen20	236	Rafflesimon	DMC	42	91	.	
+Pen20	237	Mastemon	DMC	30	81	.	
+Pen20	238	Chaosmon	DMC	71	105	.	
+Pen20	239	Examon	DMC	40	12	.	
+Pen20	240	Imperialdramon: Paladin Mode	DMC	12	32	.	
+Pen20	241	Magnamon	DMC	4	16	.	
+Pen20	242	Dynasmon	DMC	3	41	.	
+Pen20	243	Craniummon	DMC	12	5	.	
+Pen20	244	Gankoomon	DMC	6	12	.	
+Pen20	245	Lord Knightmon	DMC	6	32	.	
+Pen20	246	Sleipmon	DMC	31	9	.	
+Pen20	247	Ofanimon: Falldown Mode	DMC	49	104	.	
+Pen20	248	Beel Starmon	DMC	116	20	.	
+Pen20	249	Stingmon	DMC	5	12	.	
+Pen20	250	Susanoomon	DMC	81	32	.	
+Pen20	251	Apocalymon	DMC	13	34	.	
+Pen20	252	N.E.O	DMC	36	34	.	
+Pen20	253	Herissmon	DMC	48	87	.	
+Pen20	254	Blucomon	DMC	66	80	.	
+Pen20	255	Sistermon Ciel	DMC	32	82	.	
+Pen20	256	Sistermon Blanc	DMC	48	24	.	Can't scan (enemy)
+Pen20	257	Sistermon Noir	DMC	103	16	.	Can't scan (enemy)
+Pen20	258	Lilithmon	DMC	8	.	.	Can't scan (enemy); can't see weak attack
+Pen20	259	Leviamon	DMC	26	48	.	Can't scan (enemy)
+Pen20	260	Barbamon	DMC	7	27	.	Can't scan (enemy)
+Pen20	261	Lucemon: Falldown Mode	DMC	13	6	.	Can't scan (enemy)
+Pen20	262	Omegamon Alter-S	DMC	16	12	.	Can't scan (enemy)
+Pen20	263	Rust Tyranomon	DMC	3	33	.	Can't scan (enemy)
+Pen20	264	Grace Novamon	DMC	54	48	.	Can't scan (enemy)
