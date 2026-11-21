@@ -28,8 +28,8 @@ function cmpByName(a, b) {
 }
 
 function cmpByAttack(a, b) {
-    if (a.FocusAttack < b.FocusAttack) return -1;
-    if (a.FocusAttack > b.FocusAttack) return 1;
+    if (a.AttackSortKey < b.AttackSortKey) return -1;
+    if (a.AttackSortKey > b.AttackSortKey) return 1;
     return cmpByDevIndex(a, b);
 }
 
@@ -44,6 +44,7 @@ function changeRadix() {
 }
 
 function changeView() {
+    let highlightFocus = false;
     $(".data_row").detach();
     if ($("#view_by_device").prop("checked")) {
         monsters.sort(cmpByDevIndex);
@@ -51,6 +52,7 @@ function changeView() {
         monsters.sort(cmpByName);
     } else {
         monsters.sort(cmpByAttack);
+        highlightFocus = true;
     }
     let prevMonster = {"Device": "", "Index": ""};
     monsters.forEach(function(monster, index, array) {
@@ -59,11 +61,16 @@ function changeView() {
         }
         prevMonster = monster;
     });
+    if (highlightFocus) {
+        $(".focus").addClass("highlight");
+    } else {
+        $(".focus").removeClass("highlight");
+    }
     changeRadix();
 }
 
 function makeByteCell(n) {
-    return $("<td>").addClass("number").append(
+    return $("<td>").addClass("number").addClass(n % 2 == 0 ? "even" : "odd").append(
         $("<span>").addClass("show_hex").text(hexByte(n)).addClass("hex"),
         $("<span>").addClass("show_dec").text(n),
     );
@@ -82,13 +89,13 @@ function makeAttack(TR, attackType, attackId, isFocus) {
                 $("<img>").addClass("attack_sprite").prop("src", "color/" + filename),
                 $("<img>").addClass("attack_sprite").prop("src", "bw/" + filename),
             ),
-            makeByteCell(props.dmc_dec),
+            makeByteCell(props.dmc_dec).addClass(isFocus ? "focus" : "unfocus"),
             makeByteCell(props.dec).prepend(
                 $("<span>").text(attackType + " "),
             ),
         );
     } else {
-        TR.append($("<td>").text("N/A").prop("colspan", 3));
+        TR.append($("<td>").addClass("na").text("N/A").prop("colspan", 3));
     }
     return props;
 }
@@ -98,17 +105,26 @@ function makeRowResult(rowData, focusIsMain) {
     result.Device = rowData.Device;
     result.Index = rowData.Index;
     result.Name = rowData.Name;
-    result.FocusIsMain = focusIsMain;
     result.TR = $("<tr>").addClass("data_row");
     result.TR.append(
         $("<td>").text(rowData.Device),
         makeByteCell(rowData.Index),
         $("<td>").text(rowData.Name),
     );
-    result.MainProps = makeAttack(result.TR, rowData.AttackType, rowData.Main, focusIsMain);
-    result.AltProps  = makeAttack(result.TR, rowData.AttackType, rowData.Alt, !focusIsMain);
-    let focusProps = focusIsMain ? result.MainProps : result.AltProps;
-    result.FocusAttack = focusProps.dmc_dec;
+    let sameAttacks = rowData.Main === rowData.Alt;
+    result.MainProps = makeAttack(result.TR, rowData.AttackType, rowData.Main, focusIsMain || sameAttacks);
+    result.AltProps  = makeAttack(result.TR, rowData.AttackType, rowData.Alt, !focusIsMain || sameAttacks);
+    let mainDMC = result.MainProps.dmc_dec;
+    let altDMC = result.AltProps.dmc_dec;
+    let focusDMC = focusIsMain ? mainDMC : altDMC;
+    let unfocusDMC = focusIsMain ? altDMC : mainDMC;
+    let sortKey = 10 * focusDMC + 8;
+    if (sameAttacks) sortKey -= 4;
+    if (focusIsMain) sortKey -= 2;
+    if (typeof(rowData.Alt) === "number") sortKey -= 1;
+    sortKey *= 1000;
+    sortKey += typeof(unfocusDMC) === "number" ? unfocusDMC : 0;
+    result.AttackSortKey = sortKey;
     return result;
 }
 
@@ -145,7 +161,16 @@ th, td {
     padding-left: 3px;
     padding-right: 3px;
 }
-
+.highlight.odd {
+    background-color: yellow;
+}
+.highlight.even {
+    background-color: lime;
+}
+.na {
+    text-align: center;
+    background-color: #DDD;
+}
 .number {
     font-family: monospace;
     text-align: right;
@@ -189,7 +214,7 @@ th, td {
   View:<br>
   <input type="radio" onchange="changeView()" name="view" id="view_by_device" checked="checked"><label>By device and index</label><br>
   <input type="radio" onchange="changeView()" name="view" id="view_by_name"><label>By name</label><br>
-  <input type="radio" onchange="changeView()" name="view" id="view_by_attack"><label>By attack</label><br>
+  <input type="radio" onchange="changeView()" name="view" id="view_by_attack"><label>By attack (duplicating rows with two different attacks)</label><br>
 </div>
 
 <table id="attack_table">
