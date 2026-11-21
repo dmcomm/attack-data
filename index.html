@@ -85,7 +85,7 @@ function makeAttack(TR, attackType, attackId, isFocus) {
         props.dmc_hex = hexByte(props.dmc_dec);
         let filename = props.dmc_dec.toString().padStart(3, "0") + ".png";
         TR.append(
-            $("<td>").append(
+            $("<td>").addClass("attack_sprite_cell").append(
                 $("<img>").addClass("attack_sprite").prop("src", "color/" + filename),
                 $("<img>").addClass("attack_sprite").prop("src", "bw/" + filename),
             ),
@@ -174,6 +174,15 @@ th, td {
 .number {
     font-family: monospace;
     text-align: right;
+}
+.attack_sprite {
+    width: 16px;
+    height: 16px;
+    image-rendering: crisp-edges;
+    margin: 2px;
+}
+.attack_sprite_cell {
+    text-align: center;
 }
 </style>
 </head>
